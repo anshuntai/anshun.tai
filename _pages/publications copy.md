@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: 
 author_profile: true
 ---
 
 Publication Summary:
 -----
-<div style="position: relative; padding-bottom: 56.25%; width: 100%; max-width: 100%; margin: 0 auto; height: 400px; overflow-x: auto; overflow-y: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%; max-width: 100%; margin: 0 auto;">
   <iframe 
     src="https://an-shun-tai.github.io/anshun.tai/barchart/publication-summary-ver2.html" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; margin: 0; padding: 0;" 
@@ -16,9 +16,6 @@ Publication Summary:
 </div>
 
 ---
-
-
-
 
 
 (A) Major work
