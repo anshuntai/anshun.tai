@@ -3,9 +3,7 @@ title: ""
 author_profile: true
 redirect_from: 
   - /about/
-permalink: 
-  - /
-  - /about
+permalink: /
 ---
 
 <!-- Banner Section -->
