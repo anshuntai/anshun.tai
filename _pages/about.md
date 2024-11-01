@@ -1,11 +1,9 @@
 ---
-permalink: /
 title: ""
 author_profile: true
-permalink: /about/
 redirect_from: 
   - /about/
-  - /about.html
+permalink: /about/
 ---
 
 <!-- Banner Section -->
