@@ -10,7 +10,7 @@ redirect_from:
 <!-- Banner Section -->
 <div class="banner">
   <div class="banner-content">
-    <h1>Causal Inference Lab</h1>
+    <h1>Causal Inference & Bioinformatics Lab</h1>
   </div>
 </div>
 
