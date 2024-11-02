@@ -8,14 +8,14 @@
   .chart-container {
     display: flex;
     flex-wrap: nowrap; /* Prevents wrapping to the next line */
-    width: 1000px; /* Total width for three charts with spacing */
+    width: 700px; /* Total width for three charts with spacing */
+    height: 300px;
     box-sizing: border-box;
     padding: 10px;
   }
   
   .chart-container canvas {
-    flex: 0 0 150px; /* Fixed width for each chart */
-    height: 50px; /* Fixed height for consistency */
+    height: ;
     margin-right: 20px; /* Space between charts */
   }
 
@@ -33,7 +33,7 @@
   var chart1 = new Chart(ctx1, {
       type: 'bar',
       data: {
-        labels: ['Statistics in Medicine', ['Statistical Methods', 'in Medical Research'], 'Annals of Epidemiology', 'American Journal of Epidemiology', 'Epidemiology', 'Human Reproduction', 'Nucleic Acids Research', 'JMIR Mhealth Uhealth', 'Annals of Applied Statistics', 'Journal of Causal Inference', 'Frontiers in Public Health', 'PLOS ONE', 'Frontiers in Endocrinology','Oncotarget', 'Statistics in Biosciences', ['Journal of the Chinese' ,'Statistical Association'], 'Biometrics', 'Cancers'],
+        labels: ['Statistics in Medicine', ['Statistical Methods', 'in Medical Research'], 'Annals of Epidemiology', ['American Journal', 'of Epidemiology'], 'Epidemiology', 'Human Reproduction', 'Nucleic Acids Research', 'JMIR Mhealth Uhealth', ['Annals of', 'Applied Statistics'], ['Journal of', 'Causal Inference'], ['Frontiers in', 'Public Health'], 'PLOS ONE', ['Frontiers in', 'Endocrinology'],'Oncotarget', 'Statistics in Biosciences', ['Journal of the Chinese' ,'Statistical Association'], 'Biometrics', 'Cancers'],
         datasets: [{
           data: [6, 2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1],
           backgroundColor: 'rgba(255, 99, 132, 0.2)',
