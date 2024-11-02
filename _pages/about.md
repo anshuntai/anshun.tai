@@ -43,7 +43,7 @@ I would welcome any email for an academic discussion.
   .banner {
     background-color: #2c3e50; /* Dark blue background */
     color: #ffffff; /* White text */
-    padding: 20px 20px; /* Padding for the banner */
+    padding: 20px; /* Padding for the banner */
     display: flex; /* Use flexbox to center the content */
     justify-content: center; /* Center the content horizontally */
     align-items: center; /* Center the content vertically */
@@ -55,10 +55,20 @@ I would welcome any email for an academic discussion.
 
   /* Styling the Banner Heading */
   .banner h1 {
-    font-size: clamp(0.01 rem, 1vw, 2.0 rem); /* Adaptive font size between 1.5em and 3em */
+    font-size: clamp(1.5rem, 4vw, 2.5rem); /* Adaptive font size */
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
-    letter-spacing: 2px; /* Spacing between letters */
-    white-space: nowrap; /* Ensure the text stays on one line */
+    letter-spacing: 1px; /* Adjusted spacing for mobile /nowrap */
+    white-space: normal; /* Allows text to wrap on smaller screens */
+    line-height: 1.1; /* Line height for readability */
+    word-break: break-word; /* Breaks long words if needed on very small screens */
+  }
+
+  /* Extra small screens (e.g., iPhone) */
+  @media (max-width: 375px) {
+    .banner h1 {
+      font-size: 1.2rem; /* Further reduce font size */
+      line-height: 1.2; /* Adjust line height */
+    }
   }
 </style>
