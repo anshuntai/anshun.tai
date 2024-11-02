@@ -57,7 +57,7 @@ permalink: /
 
   /* Styling the Banner Heading */
   .banner h1 {
-    font-size: clamp(0.5 em, 4vw, 2.5em); /* Adaptive font size between 1.5em and 3em */
+    font-size: clamp(0.1 em, 2vw, 2.0em); /* Adaptive font size between 1.5em and 3em */
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
     letter-spacing: 2px; /* Spacing between letters */
