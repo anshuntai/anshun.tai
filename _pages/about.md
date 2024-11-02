@@ -14,29 +14,28 @@ permalink: /
 </div>
 
 <!-- PI Short Bio Section -->
-<div class="bio-section">
-  <h2>PI Short Bio</h2>
-  <p>
-    I received my Ph.D. in Statistics at National Tsing Hua University in 2019. My current research interests are the genomic data analysis and causal inference.
-  </p>
-  <ul>
-    <li><strong>For genomic studies:</strong>
-      Biological topics I have studied include tumor heterogeneity, immune cell deconvolution, and single-cell sequencing. Based on these topics, I have applied <strong>Bayesian modeling</strong>, <strong>clustering approaches</strong>, and <strong>variable selection</strong> for developing the corresponding statistical models.
-    </li>
-    <li><strong>For causal inference:</strong>
-      I recently focused on the statistical model development for mediator analysis with multiple mediators and instrumental variable methods (<strong>Mendelian Randomization</strong>).
-    </li>
-  </ul>
-  <p>
-    I would welcome any email for an academic discussion.<br>
-    <strong>Email:</strong> ashtai@gs.ncku.edu.tw
-  </p>
-</div>
+## PI Short Bio
+
+I received my Ph.D. in Statistics at National Tsing Hua University in 2019. My current research interests are the genomic data analysis and causal inference.
+
+- **For genomic studies:**
+  
+  Biological topics I have studied include tumor heterogeneity, immune cell deconvolution, and single-cell sequencing. Based on these topics, I have applied **Bayesian modeling**, **clustering approaches**, and **variable selection** for developing the corresponding statistical models.
+
+- **For causal inference:**
+  
+  I recently focused on the statistical model development for mediator analysis with multiple mediators and instrumental variable methods (**Mendelian Randomization**).
+
+I would welcome any email for an academic discussion.  
+**Email:** ashtai@gs.ncku.edu.tw
 
 <!-- News Section -->
-<h2>NEWS</h2>
-<!-- Add news here -->
-2024/06/24, BO-HAN YAO (姚博瀚), Dept.STAT Second Year Undergraduate, 通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」
+## NEWS
+
+- **2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate:**  
+  通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」
+
+
 
 
 <!-- Custom CSS for the Banner -->
@@ -57,7 +56,7 @@ permalink: /
 
   /* Styling the Banner Heading */
   .banner h1 {
-    font-size: clamp(0.1 em, 2vw, 2.0em); /* Adaptive font size between 1.5em and 3em */
+    font-size: clamp(0.1 em, 2vw, 1.5em); /* Adaptive font size between 1.5em and 3em */
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
     letter-spacing: 2px; /* Spacing between letters */
