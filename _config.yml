@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "CIBio Lab"
+title                    : "CausalBio Lab"
 title_separator          : "-"
-name                     : &name "Causal Inference Lab"
+name                     : &name "Causal Inference & Bioinformatics Lab"
 description              : &description "personal description"
 url                      : "https://an-shun-tai.github.io/anshun.tai/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
