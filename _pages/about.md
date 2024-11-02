@@ -50,12 +50,12 @@ I would welcome any email for an academic discussion.
     text-align: center; /* Center text in the banner */
     width: 100%; /* Full width of the page */
     box-sizing: border-box; /* Ensure padding is included in width */
-    margin-bottom: 40px; /* Add space below the banner */
+    margin-bottom: 20px; /* Add space below the banner */
   }
 
   /* Styling the Banner Heading */
   .banner h1 {
-    font-size: clamp(0.05 em, 2vw, 3.0 em); /* Adaptive font size between 1.5em and 3em */
+    font-size: clamp(0.001 em, 2vw, 3.0 em); /* Adaptive font size between 1.5em and 3em */
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
     letter-spacing: 2px; /* Spacing between letters */
