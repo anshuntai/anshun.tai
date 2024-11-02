@@ -8,14 +8,15 @@
   .chart-container {
     display: flex;
     flex-wrap: nowrap; /* Prevents wrapping to the next line */
+    justify-content: space-between;
     width: 700px; /* Total width for three charts with spacing */
-    height: 300px;
+    height: 150px;
     box-sizing: border-box;
     padding: 10px;
   }
   
   .chart-container canvas {
-    height: 300px;
+    flex: 0 0 33.333%;
     margin-right: 20px; /* Space between charts */
   }
 
