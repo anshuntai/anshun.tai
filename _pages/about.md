@@ -55,7 +55,7 @@ I would welcome any email for an academic discussion.
 
   /* Styling the Banner Heading */
   .banner h1 {
-    font-size: clamp(0.01 rem, 6vw, 3.0 rem); /* Adaptive font size between 1.5em and 3em */
+    font-size: clamp(0.01 rem, 1vw, 2.0 rem); /* Adaptive font size between 1.5em and 3em */
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
     letter-spacing: 2px; /* Spacing between letters */
