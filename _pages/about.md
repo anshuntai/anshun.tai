@@ -55,7 +55,7 @@ I would welcome any email for an academic discussion.
 
   /* Styling the Banner Heading */
   .banner h1 {
-    font-size: clamp(1.5rem, 4vw, 2.5rem); /* Adaptive font size */
+    font-size: clamp(0.5rem, 4vw, 1.5rem); /* Adaptive font size */
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
     letter-spacing: 1px; /* Adjusted spacing for mobile /nowrap */
@@ -67,7 +67,7 @@ I would welcome any email for an academic discussion.
   /* Extra small screens (e.g., iPhone) */
   @media (max-width: 375px) {
     .banner h1 {
-      font-size: 1.2rem; /* Further reduce font size */
+      font-size: 0.5rem; /* Further reduce font size */
       line-height: 1.2; /* Adjust line height */
     }
   }
