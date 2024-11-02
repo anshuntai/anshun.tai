@@ -15,12 +15,6 @@ Publication Summary:
   </iframe>
 </div>
 
----
-
-
-
-
-
 (A) Major work
 -----
   * Published or In press​:
