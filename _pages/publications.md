@@ -7,10 +7,10 @@ author_profile: true
 
 Publication Summary:
 -----
-<div style="position: relative; padding-bottom: 56.25%; width: 100%; max-width: 100%; height: 300px; max-height: 100%; margin: 0 auto; overflow-x: auto; overflow-y: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; max-width: 100%; max-height: 100%; margin: 0 auto; overflow-x: auto; overflow-y: hidden;">
   <iframe 
     src="https://an-shun-tai.github.io/anshun.tai/barchart/publication-summary-ver2.html" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 300px; border: none; margin: 0; padding: 0;" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; margin: 0; padding: 0;" 
     allowfullscreen>
   </iframe>
 </div>
