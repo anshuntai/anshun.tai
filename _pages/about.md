@@ -59,7 +59,7 @@ I would welcome any email for an academic discussion.
     margin: 0; /* No extra margin around the heading */
     font-family: 'Arial', sans-serif; /* Clean font */
     letter-spacing: 1px; /* Adjusted spacing for mobile /nowrap */
-    white-space: normal; /* Allows text to wrap on smaller screens */
+    white-space: nowrap; /* Allows text to wrap on smaller screens */
     line-height: 1.1; /* Line height for readability */
     word-break: break-word; /* Breaks long words if needed on very small screens */
   }
