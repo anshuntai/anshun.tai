@@ -48,13 +48,15 @@ alumni:
   - name: Tom Chen (陳天)
     photo_url: /images/students/tom_chen.jpg
     program: Ph.D. in Statistics
-    year: 2020
+    graduate_year: 2020
     research_interests: Bayesian methods, DNA methylation analysis
+    thesis: thesis name
     email: tom.chen@example.com
 
   - name: Sarah Lin (林莎拉)
     photo_url: /images/students/sarah_lin.jpg
     program: M.S. in Bioinformatics
-    year: 2021
+    graduate_year: 2021
     research_interests: Computational biology, Gene regulation
+    thesis: thesis name
     email: sarah.lin@example.com
