@@ -35,8 +35,8 @@ author_profile: true
   /* Style for the photo image itself */
   .photo img {
     /* Set the image dimensions to a square */
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     /* Make the image circular for a profile-like appearance */
     border-radius: 50%;
     /* Ensures the image covers the entire area and is centered */
