@@ -5,6 +5,51 @@ permalink: /students/
 author_profile: true
 ---
 
+<style>
+  .student-block {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .photo {
+    flex: 0 0 100px;
+    margin-right: 1rem;
+  }
+  
+  .photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .info {
+    flex: 1;
+  }
+
+  /* Responsive styling for smaller screens */
+  @media (max-width: 768px) {
+    .student-block {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .photo {
+      margin-bottom: 1rem;
+    }
+    
+    .info {
+      text-align: left;
+    }
+  }
+</style>
+
 Graduate (研究生):
 -----
 {% for student in site.data.students.graduate %}
