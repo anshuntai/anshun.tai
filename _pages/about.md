@@ -34,7 +34,6 @@ I would welcome any email for an academic discussion.
 - **2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate:**  
   通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」
 
-<img src="https://an-shun-tai.github.io/anshun.tai/images/bio-photo.jpg" class="author__avatar" alt="{{ author.name }}">
 
 
 <!-- Custom CSS for the Banner -->
