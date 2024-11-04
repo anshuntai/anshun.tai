@@ -81,7 +81,7 @@ Graduate (研究生):
 {% for student in site.data.students.graduate %}
 <div class="student-block">
   <div class="photo">
-    ![Photo of {{ student.name }}]({{ student.photo_url }})
+    <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
@@ -97,7 +97,7 @@ Undergraduate (專題生):
 {% for student in site.data.students.undergraduate %}
 <div class="student-block">
   <div class="photo">
-    ![Photo of {{ student.name }}]({{ student.photo_url }})
+    <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
@@ -114,7 +114,7 @@ Research Assistant:
 {% for student in site.data.students.research_assistants %}
 <div class="student-block">
   <div class="photo">
-    ![Photo of {{ student.name }}]({{ student.photo_url }})
+    <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
@@ -130,7 +130,7 @@ Alumni:
 {% for student in site.data.students.alumni %}
 <div class="student-block">
   <div class="photo">
-    ![Photo of {{ student.name }}]({{ student.photo_url }})
+    <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
