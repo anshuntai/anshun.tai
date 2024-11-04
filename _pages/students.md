@@ -85,7 +85,7 @@ Graduate (研究生):
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
-    <br>{{ student.program }}, {year { student.year }}
+    <br>{{ student.program }}, year {{ student.year }}
     <br>Research Interests: {{ student.research_interests }} 
     <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
   </div>
@@ -101,7 +101,7 @@ Undergraduate (專題生):
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
-    <br>{{ student.department }}, {year { student.year }}  
+    <br>{{ student.department }}, year {{ student.year }}  
     <br>Research Interests: {{ student.research_interests }}  
     <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
     <br>Research Title: "{{ student.research_title }}"
@@ -118,7 +118,7 @@ Research Assistant:
   </div>
   <div class="info">
     <strong>{{ student.name }}</strong>  
-    <br>{{ student.department }}, {year { student.year }}  
+    <br>{{ student.department }}, year {{ student.year }}  
     <br>Research Interests: {{ student.research_interests }}  
     <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
   </div>
