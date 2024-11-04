@@ -27,7 +27,7 @@ author_profile: true
   /* Container for the student's photo */
   .photo {
     /* Fix the size of the photo container to 100px wide */
-    flex: 0 0 100px;
+    flex: 0 0 200px;
     /* Space between the photo and the info section */
     margin-right: 1rem;
   }
