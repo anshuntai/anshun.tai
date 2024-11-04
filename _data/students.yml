@@ -1,13 +1,13 @@
 graduate:
   - name: John Doe
-    photo_url: /images/students/john_doe.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/john_doe.jpg
     program: Ph.D. in Bioinformatics
     year: 2023
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
 
   - name: Jane Smith
-    photo_url: /images/students/jane_smith.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/jane_smith.jpg
     program: M.S. in Data Science
     year: 2024
     research_interests: Machine learning applications in genetics
@@ -15,7 +15,7 @@ graduate:
 
 undergraduate:
   - name: BO-HAN YAO (姚博瀚)
-    photo_url: /images/students/bo_han_yao.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
     department: Department of Statistics
     year: 3
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Caual ML
@@ -23,7 +23,7 @@ undergraduate:
     research_title: "Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock"
 
   - name: Alex Lee (李亞歷)
-    photo_url: /images/students/alex_lee.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
     department: Department of Statistics
     year: 2
     research_interests: Statistical modeling, Bioinformatics
@@ -31,14 +31,14 @@ undergraduate:
 
 research_assistants:
   - name: BO-HAN YAO (姚博瀚)
-    photo_url: /images/students/bo_han_yao.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
     department: Department of Statistics
     year: 3
-    research_interests: Epigenetic biomarkers, Computational statistics
-    email: bohan.yao@example.com
+    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Caual ML
+    email: h24111057@gs.ncku.edu.tw
 
   - name: Emily Wong (王美玲)
-    photo_url: /images/students/emily_wong.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/emily_wong.jpg
     department: Department of Computer Science
     year: 4
     research_interests: Machine learning in genomics, Predictive modeling
@@ -46,7 +46,7 @@ research_assistants:
 
 alumni:
   - name: Tom Chen (陳天)
-    photo_url: /images/students/tom_chen.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/tom_chen.jpg
     program: Ph.D. in Statistics
     graduate_year: 2020
     research_interests: Bayesian methods, DNA methylation analysis
@@ -54,7 +54,7 @@ alumni:
     email: tom.chen@example.com
 
   - name: Sarah Lin (林莎拉)
-    photo_url: /images/students/sarah_lin.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/sarah_lin.jpg
     program: M.S. in Bioinformatics
     graduate_year: 2021
     research_interests: Computational biology, Gene regulation
