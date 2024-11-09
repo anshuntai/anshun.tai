@@ -1,7 +1,25 @@
-- title: "Example R Package"
-  paper_reference: "Doe, J. (2024). Title of the related paper. Journal of Data Science."
-  github_url: "https://github.com/username/example-package"
+- title: "FMI: On the conventional definition of path-specific effects - fully mediated interaction with multiple ordered mediators"
+  paper_reference: "Tai, An-Shuna,b; Liao, Le-Hsuanb; Lin, Sheng-Hsuanb. On the Conventional Definition of Path-specific Effects: Fully Mediated Interaction With Multiple Ordered Mediators. Epidemiology 33(6):p 817-827, November 2022. | DOI: 10.1097/EDE.0000000000001520"
+  github_url: "https://github.com/AshTai/FMI"
 
-- title: "Another R Package"
-  paper_reference: "Smith, A. (2023). Title of another related paper. Bioinformatics Journal."
-  github_url: "https://github.com/username/another-package"
+- title: "PEACH: Detection of cell separation–induced gene expression through a penalized deconvolution approach"
+  paper_reference: "Tai, AS., Wang, CC. & Hsieh, WP. Detection of Cell Separation-Induced Gene Expression Through a Penalized Deconvolution Approach. Stat Biosci 15, 692–718 (2023). https://doi.org/10.1007/s12561-022-09344-8"
+  github_url: "https://github.com/AshTai/PEACH"
+
+- title: "MedMR: Multiply robust estimation of natural indirect effects with multiple ordered mediators."
+  paper_reference: "Tai A-S, Lin S-H. Multiply robust estimation of natural indirect effects with multiple ordered mediators. Statistics in Medicine. 2024; 43(4): 656-673. https://doi.org/10.1002/sim.9977"
+  github_url: "https://github.com/AshTai/MedMR"
+
+- title: "BayICE: A hierarchical Bayesian deconvolution model with stochastic search variable selection"
+  paper_reference: "An-Shun Tai, George C. Tseng, and Wen-Ping Hsieh* (2021). BayICE: A Bayesian hierarchical model for semi-reference-based deconvolution of bulk transcriptomic data. Annals of Applied Statistics. 15(1) 391 - 411. https://doi.org/10.1214/20-AOAS1376."
+  github_url: "https://github.com/AshTai/BayICE"
+
+- title: "iPSEsv: General approach of causal mediation analysis for survival outcome under sequential mediators"
+  paper_reference: ""
+  github_url: "https://github.com/AshTai/iPSEsv"
+
+- title: "CloneDeMix: Clone deconvolution via DNA sequencing"
+  paper_reference: "Tai AS, Peng CH, Peng SC, Hsieh WP (2018) Decomposing the subclonal structure of tumors with two-way mixture models on copy number aberrations. PLOS ONE 13(12): e0206579. https://doi.org/10.1371/journal.pone.0206579"
+  github_url: "https://github.com/AshTai/CloneDeMix"
+
+
