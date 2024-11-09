@@ -1,0 +1,7 @@
+- title: "Example R Package"
+  paper_reference: "Doe, J. (2024). Title of the related paper. Journal of Data Science."
+  github_url: "https://github.com/username/example-package"
+
+- title: "Another R Package"
+  paper_reference: "Smith, A. (2023). Title of another related paper. Bioinformatics Journal."
+  github_url: "https://github.com/username/another-package"
