@@ -53,7 +53,7 @@ author_profile: true
 
 R Packages:
 -----
-{% for post in site.research %}
+{% for post in site.data.softwares %}
 <div class="package-block">
   <!-- Package title -->
   <div class="package-title">{{ post.title }}</div>
