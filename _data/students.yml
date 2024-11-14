@@ -12,6 +12,7 @@ graduate:
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
+    research_title: qnnn
 
 
 undergraduate:
@@ -57,6 +58,16 @@ undergraduate:
     year: 2
     research_interests: Statistical modeling, Bioinformatics
     email: H24124026@gs.ncku.edu.tw
+
+alumni:
+  - name: Tom Chen (陳天)
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/tom_chen.jpg
+    program: Ph.D. in Statistics
+    graduate_year: 2024
+    research_interests: Bayesian methods, DNA methylation analysis
+    thesis: thesis name
+    email: tom.chen@example.com
+
 research_assistants:
   - name: BO-HAN YAO (姚博瀚)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
@@ -72,12 +83,5 @@ research_assistants:
     research_interests: Machine learning in genomics, Predictive modeling
     email: h24116099@gs.ncku.edu.tw
 
-alumni:
-  - name: Tom Chen (陳天)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/tom_chen.jpg
-    program: Ph.D. in Statistics
-    graduate_year: 2020
-    research_interests: Bayesian methods, DNA methylation analysis
-    thesis: thesis name
-    email: tom.chen@example.com
+
 
