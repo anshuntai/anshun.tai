@@ -1,48 +1,76 @@
 graduate:
-  - name: John Doe
+  - name: 陳沛群
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/john_doe.jpg
     program: Ph.D. in Bioinformatics
-    year: 2023
+    year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
 
-  - name: Jane Smith
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/jane_smith.jpg
-    program: M.S. in Data Science
-    year: 2024
-    research_interests: Machine learning applications in genetics
-    email: janesmith@example.com
+  - name: John Doe
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/john_doe.jpg
+    program: Ph.D. in Bioinformatics
+    year: 2
+    research_interests: Epigenetic aging, Causal inference models
+    email: johndoe@example.com
+
 
 undergraduate:
-  - name: BO-HAN YAO (姚博瀚)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
+  - name: Bo-Han YAO (姚博瀚)
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics
     year: 3
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Caual ML
     email: h24111057@gs.ncku.edu.tw
     research_title: "Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock"
 
-  - name: YU-CHIEH LIU (李亞歷)
+  - name: Yu-Chieh LIU (劉宇婕)
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    department: Department of Statistics
+    year: 3
+    research_interests: Statistical modeling, Bioinformatics
+    email: h24116099@gs.ncku.edu.tw
+
+  - name: Hua-Rui ZENG (曾華睿)
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    department: Department of Statistics
+    year: 3
+    research_interests: Statistical modeling, Bioinformatics
+    email: h24116170@gs.ncku.edu.tw
+
+  - name: Li-Chun WANG (王麗淳)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
     department: Department of Statistics
     year: 2
     research_interests: Statistical modeling, Bioinformatics
     email: alex.lee@example.com
 
+  - name: Tzu-Chiao CHOU (周子喬)
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    department: Department of Statistics
+    year: 2
+    research_interests: Statistical modeling, Bioinformatics
+    email: alex.lee@example.com
+  
+  - name: Han-Yu TSAI (蔡涵宇)
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    department: Department of Statistics
+    year: 2
+    research_interests: Statistical modeling, Bioinformatics
+    email: alex.lee@example.com
 research_assistants:
-  - name: BO-HAN YAO (姚博瀚)
+  - name: Bo-Han YAO (姚博瀚)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
     department: Department of Statistics
     year: 3
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Caual ML
     email: h24111057@gs.ncku.edu.tw
 
-  - name: Emily Wong (王美玲)
+  - name: Yu-Chieh LIU (劉宇婕)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/emily_wong.jpg
-    department: Department of Computer Science
+    department: Department of Statistics
     year: 4
     research_interests: Machine learning in genomics, Predictive modeling
-    email: emily.wong@example.com
+    email: h24116099@gs.ncku.edu.tw
 
 alumni:
   - name: Tom Chen (陳天)
@@ -53,10 +81,3 @@ alumni:
     thesis: thesis name
     email: tom.chen@example.com
 
-  - name: Sarah Lin (林莎拉)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/sarah_lin.jpg
-    program: M.S. in Bioinformatics
-    graduate_year: 2021
-    research_interests: Computational biology, Gene regulation
-    thesis: thesis name
-    email: sarah.lin@example.com
