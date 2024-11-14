@@ -24,39 +24,39 @@ undergraduate:
     research_title: "Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock"
 
   - name: Yu-Chieh LIU (劉宇婕)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
     year: 3
     research_interests: Statistical modeling, Bioinformatics
     email: h24116099@gs.ncku.edu.tw
 
   - name: Hua-Rui ZENG (曾華睿)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Hua-Rui-ZENG.JPG
     department: Department of Statistics
     year: 3
     research_interests: Statistical modeling, Bioinformatics
     email: h24116170@gs.ncku.edu.tw
 
   - name: Li-Chun WANG (王麗淳)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Li-Chun-WANG.JPG
     department: Department of Statistics
     year: 2
     research_interests: Statistical modeling, Bioinformatics
-    email: alex.lee@example.com
+    email: h24126086@gs.ncku.edu.tw
 
   - name: Tzu-Chiao CHOU (周子喬)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Tzu-Chiao-CHOU.JPG
     department: Department of Statistics
     year: 2
     research_interests: Statistical modeling, Bioinformatics
-    email: alex.lee@example.com
+    email: Chou6855@gmail.com
   
   - name: Han-Yu TSAI (蔡涵宇)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/alex_lee.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
     department: Department of Statistics
     year: 2
     research_interests: Statistical modeling, Bioinformatics
-    email: alex.lee@example.com
+    email: H24124026@gs.ncku.edu.tw
 research_assistants:
   - name: Bo-Han YAO (姚博瀚)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
@@ -66,7 +66,7 @@ research_assistants:
     email: h24111057@gs.ncku.edu.tw
 
   - name: Yu-Chieh LIU (劉宇婕)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/emily_wong.jpg
+    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
     year: 4
     research_interests: Machine learning in genomics, Predictive modeling
