@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics 生物資訊"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/bioinformatics
 venue: "NCKU, Dept. STAT"
 date: 2015-01-01
