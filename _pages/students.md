@@ -103,8 +103,26 @@ Undergraduate (專題生):
     <strong>{{ student.name }}</strong>  
     <br>{{ student.department }}, year {{ student.year }}  
     <br>Research Interests: {{ student.research_interests }}  
-    <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
     <br>Research Title: "{{ student.research_title }}"
+    <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
+  </div>
+</div>
+{% endfor %}
+
+
+Alumni:
+-----
+{% for student in site.data.students.alumni %}
+<div class="student-block">
+  <div class="photo">
+    <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
+  </div>
+  <div class="info">
+    <strong>{{ student.name }}</strong>  
+    <br>{{ student.program }}, {{ student.graduate_year }}  
+    <br>Research Interests: {{ student.research_interests }} 
+    <br>Thesis: {{ student.thesis }}  
+    <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
   </div>
 </div>
 {% endfor %}
@@ -120,23 +138,6 @@ Research Assistant:
     <strong>{{ student.name }}</strong>  
     <br>{{ student.department }}, year {{ student.year }}  
     <br>Research Interests: {{ student.research_interests }}  
-    <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
-  </div>
-</div>
-{% endfor %}
-
-Alumni:
------
-{% for student in site.data.students.alumni %}
-<div class="student-block">
-  <div class="photo">
-    <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
-  </div>
-  <div class="info">
-    <strong>{{ student.name }}</strong>  
-    <br>{{ student.program }}, {{ student.graduate_year }}  
-    <br>Research Interests: {{ student.research_interests }} 
-    <br>Thesis: {{ student.thesis }}  
     <br>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a>
   </div>
 </div>
