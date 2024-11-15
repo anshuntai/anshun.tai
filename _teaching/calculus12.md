@@ -1,5 +1,5 @@
 ---
-title: "Calculus(1)(2) (微積分（一）（二）)"
+title: "Calculus(1)(2) 微積分（一）（二）"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/calculus12
