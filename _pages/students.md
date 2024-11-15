@@ -125,35 +125,6 @@ Undergraduate (專題生):
 </div>
 {% endfor %}
 
-
-Alumni:
------
-{% for student in site.data.students.alumni %}
-<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
-  <div class="student-block">
-    {% if student.photo_url %}
-    <div class="photo">
-      <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
-    </div>
-    {% endif %}
-    <div class="info">
-      <strong>{{ student.name }}</strong>  
-      <br>{{ student.program }}, {{ student.graduate_year }}  
-      <ul>
-        {% if student.research_interests %}
-        <li>Research Interests: {{ student.research_interests }}</li>
-        {% endif %} 
-        <li>Thesis: {{ student.thesis }}</li>
-        {% if student.email %}
-        <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
-        {% endif %} 
-      </ul>
-    </div>
-  </div>
-</div>
-{% endfor %}
-
-
 Research Assistant:
 -----
 {% for student in site.data.students.research_assistants %}
@@ -179,3 +150,32 @@ Research Assistant:
   </div>
 </div>
 {% endfor %}
+
+
+Alumni:
+-----
+{% for student in site.data.students.alumni %}
+<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
+  <div class="student-block">
+    {% if student.photo_url %}
+    <div class="photo">
+      <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
+    </div>
+    {% endif %}
+    <div class="info">
+      <strong>{{ student.name }}</strong>{({{ student.program }}, {{ student.graduate_year }} ; {{ student.thesis }})}
+      <ul>
+        {% if student.research_interests %}
+        <li>Research Interests: {{ student.research_interests }}</li>
+        {% endif %} 
+        <li>Thesis: {{ student.thesis }}</li>
+        {% if student.email %}
+        <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
+        {% endif %} 
+      </ul>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+
