@@ -64,7 +64,7 @@ alumni:
     program: Ph.D. in Statistics
     graduate_year: 2024
     research_interests: Bayesian methods, DNA methylation analysis
-    thesis: 多重因果中介分析之有序分解法與你機率權重估計 
+    thesis: 多重因果中介分析之有序分解法與逆機率權重估計 
     "Weighting approach for sequential effect decomposition for causal multi-mediation analysis"
     email: tom.chen@example.com
 
@@ -79,7 +79,7 @@ research_assistants:
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
-    year: 4
+    year: 3
     research_interests: Machine learning in genomics, Predictive modeling
     email: h24116099@gs.ncku.edu.tw
 
