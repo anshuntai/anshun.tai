@@ -60,8 +60,7 @@ undergraduate:
 
 alumni:
   - name: Tom Chen (楊文博)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/tom_chen.jpg
-    program: Ph.D. in Statistics
+    program: M.B.A. in Statistics
     graduate_year: 2024
     research_interests: Bayesian methods, DNA methylation analysis
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
