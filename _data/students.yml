@@ -3,7 +3,7 @@ graduate:
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
     program: M.S.A. in Statistics
     year: 2
-    research_interests: Epigenetic aging, Causal inference models
+    research_interests: false
     email: johndoe@example.com
     research_title: false
 
@@ -11,7 +11,7 @@ graduate:
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
     program: M.S.A. in Statistics
     year: 2
-    research_interests: Epigenetic aging, Causal inference models
+    research_interests: false
     email: johndoe@example.com
     research_title: false
 
@@ -21,7 +21,7 @@ undergraduate:
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics
     year: 3
-    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Caual ML
+    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
     research_title: "Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock"
     email: h24111057@gs.ncku.edu.tw
 
@@ -29,14 +29,14 @@ undergraduate:
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
     year: 3
-    research_interests: Statistical modeling, Bioinformatics
+    research_interests: Causal Inference
     email: h24116099@gs.ncku.edu.tw
 
   - name: HUA-RUI ZENG (曾華睿)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Hua-Rui-ZENG.JPG
     department: Department of Statistics
     year: 3
-    research_interests: Statistical modeling, Bioinformatics
+    research_interests: Causal Inference
     email: h24116170@gs.ncku.edu.tw
 
   - name: LI-CHUN WANG (王麗淳)
@@ -64,7 +64,7 @@ alumni:
   - name: Tom Chen (楊文博)
     program: M.B.A. in Statistics
     graduate_year: 2024
-    research_interests: Bayesian methods, DNA methylation analysis
+    research_interests: Causal Inference
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
     email: tom.chen@example.com
     photo_url: false
@@ -74,14 +74,14 @@ research_assistants:
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
     department: Department of Statistics
     year: 3
-    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Caual ML
+    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
     email: h24111057@gs.ncku.edu.tw
 
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
     year: 3
-    research_interests: Machine learning in genomics, Predictive modeling
+    research_interests: Causal Inference
     email: h24116099@gs.ncku.edu.tw
 
 

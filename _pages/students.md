@@ -80,7 +80,9 @@ Graduate (研究生):
       <strong>{{ student.name }}</strong>  
       <br>{{ student.program }}, year {{ student.year }}
       <ul>
+        {% if student.research_interests %}
         <li>Research Interests: {{ student.research_interests }}</li>
+        {% endif %} 
         {% if student.research_title %}
         <li>Research Title: "{{ student.research_title }}"</li>
         {% endif %} 
@@ -105,7 +107,9 @@ Undergraduate (專題生):
       <strong>{{ student.name }}</strong>  
       <br>{{ student.department }}, year {{ student.year }}
       <ul> 
-        <li>Research Interests: {{ student.research_interests }}</li>  
+        {% if student.research_interests %}
+        <li>Research Interests: {{ student.research_interests }}</li>
+        {% endif %} 
         {% if student.research_title %}
         <li>Research Title: "{{ student.research_title }}"</li>
         {% endif %}
@@ -130,7 +134,9 @@ Alumni:
       <strong>{{ student.name }}</strong>  
       <br>{{ student.program }}, {{ student.graduate_year }}  
       <ul>
+        {% if student.research_interests %}
         <li>Research Interests: {{ student.research_interests }}</li>
+        {% endif %} 
         <li>Thesis: {{ student.thesis }}</li>
         <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li>
       </ul>
@@ -153,7 +159,9 @@ Research Assistant:
       <strong>{{ student.name }}</strong>  
       <br>{{ student.department }}, year {{ student.year }}  
       <ul>
-        <li>Research Interests: {{ student.research_interests }}</li>  
+        {% if student.research_interests %}
+        <li>Research Interests: {{ student.research_interests }}</li>
+        {% endif %}  
         <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li>
       </ul>
     </div>
