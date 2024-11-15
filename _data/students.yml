@@ -4,8 +4,8 @@ graduate:
     program: M.B.A. in Statistics
     year: 2
     research_interests: false
-    email: false
     research_title: false
+    email: false
 
   - name: CHENG-YU LEE (李承祐)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
@@ -14,6 +14,7 @@ graduate:
     research_interests: false
     email: false
     research_title: false
+    email: false
 
 
 undergraduate:
@@ -61,7 +62,7 @@ undergraduate:
     email: H24124026@gs.ncku.edu.tw
 
 alumni:
-  - name: Tom Chen (楊文博)
+  - name: 楊文博
     program: M.B.A. in Statistics
     graduate_year: 2024
     research_interests: Causal Inference
