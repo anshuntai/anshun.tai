@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics (生物資訊)"
+title: "Bioinformatics 生物資訊"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/bioinformatics
