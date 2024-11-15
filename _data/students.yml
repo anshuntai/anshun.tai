@@ -1,18 +1,18 @@
 graduate:
   - name: PEI-CHUN CHEN (陳沛群)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
-    program: M.S.A. in Statistics
+    program: M.B.A. in Statistics
     year: 2
     research_interests: false
-    email: johndoe@example.com
+    email: false
     research_title: false
 
   - name: CHENG-YU LEE (李承祐)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
-    program: M.S.A. in Statistics
+    program: M.B.A. in Statistics
     year: 2
     research_interests: false
-    email: johndoe@example.com
+    email: false
     research_title: false
 
 
@@ -66,7 +66,7 @@ alumni:
     graduate_year: 2024
     research_interests: Causal Inference
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
-    email: tom.chen@example.com
+    email: false
     photo_url: false
 
 research_assistants:
