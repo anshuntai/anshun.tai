@@ -65,10 +65,12 @@ alumni:
   - name: 楊文博
     program: M.B.A. in Statistics
     graduate_year: 2024
-    research_interests: false
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
-    email: false
-    photo_url: false
+  - name: 遙帛汗
+    program: M.B.A. in Statistics
+    graduate_year: 2024
+    thesis: abc
+ 
 
 research_assistants:
   - name: BO-HAN YAO (姚博瀚)
