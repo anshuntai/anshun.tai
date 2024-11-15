@@ -159,7 +159,7 @@ Alumni:
   <div class="info">
     <ul>
       <li><strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
-      <br>{{ student.thesis }}</li>
+      <br>Thesis: {{ student.thesis }}</li>
     </ul>
   </div>
 </div>
