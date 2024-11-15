@@ -61,16 +61,7 @@ undergraduate:
     research_interests: false
     email: H24124026@gs.ncku.edu.tw
 
-alumni:
-  - name: 楊文博
-    program: M.B.A. in Statistics
-    graduate_year: 2024
-    thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
-  - name: 遙帛汗
-    program: M.B.A. in Statistics
-    graduate_year: 2024
-    thesis: abc
- 
+
 
 research_assistants:
   - name: BO-HAN YAO (姚博瀚)
@@ -87,6 +78,14 @@ research_assistants:
     research_interests: Causal Inference
     email: h24116099@gs.ncku.edu.tw
 
-
+alumni:
+  - name: 楊文博
+    program: M.B.A. in Statistics
+    graduate_year: 2024
+    thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
+  - name: 遙帛汗
+    program: M.B.A. in Statistics
+    graduate_year: 2024
+    thesis: abc
 
 
