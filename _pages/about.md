@@ -16,7 +16,7 @@ permalink: /
 <!-- PI Short Bio Section -->
 ## PI Short Bio
 I received my Ph.D. in Statistics at National Tsing Hua University in 2019. My current research interests are the genomic data analysis and causal inference.
-
+test
 - **For genomic studies:**
   Biological topics I have studied include tumor heterogeneity, immune cell deconvolution, and single-cell sequencing. Based on these topics, I have applied **Bayesian modeling**, **clustering approaches**, and **variable selection** for developing the corresponding statistical models.
 
