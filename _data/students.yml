@@ -65,6 +65,7 @@ alumni:
     research_interests: Bayesian methods, DNA methylation analysis
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
     email: tom.chen@example.com
+    photo_url: false
 
 research_assistants:
   - name: BO-HAN YAO (姚博瀚)

@@ -65,12 +65,13 @@ author_profile: true
   }
 </style>
 
+
 Graduate (研究生):
 -----
 {% for student in site.data.students.graduate %}
-<div class="{% if student.show_photo %}has-photo{% else %}no-photo{% endif %}">
+<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
   <div class="student-block">
-    {% if student.show_photo %}
+    {% if student.photo_url %}
     <div class="photo">
       <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
     </div>
@@ -90,9 +91,9 @@ Graduate (研究生):
 Undergraduate (專題生):
 -----
 {% for student in site.data.students.undergraduate %}
-<div class="{% if student.show_photo %}has-photo{% else %}no-photo{% endif %}">
+<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
   <div class="student-block">
-    {% if student.show_photo %}
+    {% if student.photo_url %}
     <div class="photo">
       <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
     </div>
@@ -113,9 +114,9 @@ Undergraduate (專題生):
 Alumni:
 -----
 {% for student in site.data.students.alumni %}
-<div class="{% if student.show_photo %}has-photo{% else %}no-photo{% endif %}">
+<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
   <div class="student-block">
-    {% if student.show_photo %}
+    {% if student.photo_url %}
     <div class="photo">
       <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
     </div>
@@ -136,9 +137,9 @@ Alumni:
 Research Assistant:
 -----
 {% for student in site.data.students.research_assistants %}
-<div class="{% if student.show_photo %}has-photo{% else %}no-photo{% endif %}">
+<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
   <div class="student-block">
-    {% if student.show_photo %}
+    {% if student.photo_url %}
     <div class="photo">
       <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
     </div>
