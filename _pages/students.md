@@ -80,7 +80,10 @@ Graduate (研究生):
       <strong>{{ student.name }}</strong>  
       <br>{{ student.program }}, year {{ student.year }}
       <ul>
-        <li>Research Interests: {{ student.research_interests }}</li> 
+        <li>Research Interests: {{ student.research_interests }}</li>
+        {% if student.research_title %}
+        <li>Research Title: "{{ student.research_title }}"</li>
+        {% endif %} 
         <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
       </ul>
     </div>
@@ -103,7 +106,9 @@ Undergraduate (專題生):
       <br>{{ student.department }}, year {{ student.year }}
       <ul> 
         <li>Research Interests: {{ student.research_interests }}</li>  
+        {% if student.research_title %}
         <li>Research Title: "{{ student.research_title }}"</li>
+        {% endif %}
         <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li>
       </ul>
     </div>

@@ -5,6 +5,7 @@ graduate:
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
+    research_title: false
 
   - name: CHENG-YU LEE (李承祐)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
@@ -12,6 +13,7 @@ graduate:
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
+    research_title: false
 
 
 undergraduate:
