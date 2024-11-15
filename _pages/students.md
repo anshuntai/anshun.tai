@@ -163,15 +163,9 @@ Alumni:
     </div>
     {% endif %}
     <div class="info">
-      <strong>{{ student.name }}</strong>{({{ student.program }}, {{ student.graduate_year }} ; {{ student.thesis }})}
       <ul>
-        {% if student.research_interests %}
-        <li>Research Interests: {{ student.research_interests }}</li>
-        {% endif %} 
-        <li>Thesis: {{ student.thesis }}</li>
-        {% if student.email %}
-        <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
-        {% endif %} 
+        <li><strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
+        <br>{{ student.thesis }}
       </ul>
     </div>
   </div>
