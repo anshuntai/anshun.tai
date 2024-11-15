@@ -1,18 +1,17 @@
 graduate:
   - name: PEI-CHUN CHEN (陳沛群)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
-    program: Ph.D. in Bioinformatics
+    program: Ph.D. in Statistics
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
 
   - name: CHENG-YU LEE (李承祐)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
-    program: Ph.D. in Bioinformatics
+    program: Ph.D. in Statistics
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
-    research_title: qnnn
 
 
 undergraduate:
@@ -60,12 +59,12 @@ undergraduate:
     email: H24124026@gs.ncku.edu.tw
 
 alumni:
-  - name: Tom Chen (陳天)
+  - name: Tom Chen (楊文博)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/tom_chen.jpg
     program: Ph.D. in Statistics
     graduate_year: 2024
     research_interests: Bayesian methods, DNA methylation analysis
-    thesis: thesis name
+    thesis: 多重因果中介分析之有序分解法與你機率權重估計
     email: tom.chen@example.com
 
 research_assistants:
