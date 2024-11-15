@@ -155,19 +155,11 @@ Research Assistant:
 Alumni:
 -----
 {% for student in site.data.students.alumni %}
-<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
-  <div class="student-block">
-    {% if student.photo_url %}
-    <div class="photo">
-      <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
-    </div>
-    {% endif %}
-    <div class="info">
-      <ul>
-        <li><strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
-        <br>{{ student.thesis }}
-      </ul>
-    </div>
+<div class="student-block">
+  <div class="info">
+    <ul>
+      <li><strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
+      <br>{{ student.thesis }}</ul>
   </div>
 </div>
 {% endfor %}
