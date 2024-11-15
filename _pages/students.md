@@ -95,6 +95,7 @@ Graduate (研究生):
 </div>
 {% endfor %}
 
+
 Undergraduate (專題生):
 -----
 {% for student in site.data.students.undergraduate %}
@@ -113,9 +114,9 @@ Undergraduate (專題生):
         <li>Research Interests: {{ student.research_interests }}</li>
         {% endif %} 
         {% if student.research_title %}
-        <li>Research Title: "{{ student.research_title }}"</li>
+        <li>Research Title: {{ student.research_title }}</li>
         {% endif %}
-        <{% if student.email %}
+        {% if student.email %}
         <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
         {% endif %} 
       </ul>
@@ -123,6 +124,7 @@ Undergraduate (專題生):
   </div>
 </div>
 {% endfor %}
+
 
 Alumni:
 -----
@@ -150,6 +152,7 @@ Alumni:
   </div>
 </div>
 {% endfor %}
+
 
 Research Assistant:
 -----
