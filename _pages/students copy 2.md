@@ -126,8 +126,8 @@ Alumni:
     <strong>{{ student.name }}</strong>  
     <br>{{ student.program }}, {{ student.graduate_year }}  
     <ul>
-      <li>Research Interests: {{ student.research_interests }}</li>
       <li>Thesis: {{ student.thesis }}</li>
+      <li>Research Interests: {{ student.research_interests }}</li>
       <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li>
     </ul>
   </div>
