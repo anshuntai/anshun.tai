@@ -9,7 +9,7 @@ Publication Summary:
 -----
 <div style="position: relative; padding-bottom: 5.0%; height:310px; max-width: 100%; max-height: 100%; margin: 0 auto; overflow-x: auto; overflow-y: hidden;">
   <iframe 
-    src="https://an-shun-tai.github.io/anshun.tai/barchart/publication-summary-ver2.html" 
+    src="https://anshuntai.github.io/anshun.tai/barchart/publication-summary-ver2.html" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 310px; border: none; margin: 0; padding: 0;" 
     allowfullscreen>
   </iframe>
