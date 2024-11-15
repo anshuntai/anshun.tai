@@ -154,15 +154,17 @@ Research Assistant:
 
 Alumni:
 -----
-{% for student in site.data.students.alumni %}
+
 <div class="student-block">
+  {% for student in site.data.students.alumni %}
   <div class="info">
     <ul>
       <li><strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
       <br>Thesis: {{ student.thesis }}</li>
     </ul>
   </div>
+  {% endfor %}
 </div>
-{% endfor %}
+
 
 
