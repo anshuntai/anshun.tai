@@ -64,8 +64,7 @@ alumni:
     program: Ph.D. in Statistics
     graduate_year: 2024
     research_interests: Bayesian methods, DNA methylation analysis
-    thesis: 多重因果中介分析之有序分解法與逆機率權重估計 
-    "Weighting approach for sequential effect decomposition for causal multi-mediation analysis"
+    thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
     email: tom.chen@example.com
 
 research_assistants:
@@ -81,7 +80,7 @@ research_assistants:
     department: Department of Statistics
     year: 3
     research_interests: Machine learning in genomics, Predictive modeling
-    email: h24116099@gs.ncku.edu.tw aaa
+    email: h24116099@gs.ncku.edu.tw
 
 
 
