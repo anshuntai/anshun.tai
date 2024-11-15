@@ -1,7 +1,7 @@
 graduate:
   - name: PEI-CHUN CHEN (陳沛群)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
-    program: Ph.D. in Statistics
+    program: M.S.A. in Statistics
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
@@ -9,7 +9,7 @@ graduate:
 
   - name: CHENG-YU LEE (李承祐)
     photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
-    program: Ph.D. in Statistics
+    program: M.S.A. in Statistics
     year: 2
     research_interests: Epigenetic aging, Causal inference models
     email: johndoe@example.com
