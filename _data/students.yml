@@ -1,6 +1,6 @@
 graduate:
   - name: PEI-CHUN CHEN (陳沛群)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
     program: M.B.A. in Statistics
     year: 2
     research_interests: Bioinformatics, Next-generation sequencing, Single cell sequencing, Cell type annotation
@@ -8,7 +8,7 @@ graduate:
     email: lres50804@gmail.com
 
   - name: CHENG-YU LEE (李承祐)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
     program: M.B.A. in Statistics
     year: 2
     research_interests: Instrumental variable analysis, Surrogate endpoint analysis
@@ -19,7 +19,7 @@ graduate:
 
 undergraduate:
   - name: BO-HAN YAO (姚博瀚)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics
     year: 3
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
@@ -27,35 +27,35 @@ undergraduate:
     email: h24111057@gs.ncku.edu.tw
 
   - name: YU-CHIEH LIU (劉宇婕)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
     year: 3
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116099@gs.ncku.edu.tw
 
   - name: HUA-RUI ZENG (曾華睿)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Hua-Rui-ZENG.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hua-Rui-ZENG.JPG
     department: Department of Statistics
     year: 3
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116170@gs.ncku.edu.tw
 
   - name: LI-CHUN WANG (王麗淳)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Li-Chun-WANG.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Li-Chun-WANG.JPG
     department: Department of Statistics
     year: 2
     research_interests: false
     email: h24126086@gs.ncku.edu.tw
 
   - name: TZU-CHIAO CHOU (周子喬)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Tzu-Chiao-CHOU.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Tzu-Chiao-CHOU.JPG
     department: Department of Statistics
     year: 2
     research_interests: false
     email: Chou6855@gmail.com
   
   - name: HAN-YU TSAI (蔡涵宇)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
     department: Department of Statistics
     year: 2
     research_interests: false
@@ -72,14 +72,14 @@ alumni:
 
 research_assistants:
   - name: BO-HAN YAO (姚博瀚)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/bo_han_yao.jpg
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/bo_han_yao.jpg
     department: Department of Statistics
     year: 3
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
     email: h24111057@gs.ncku.edu.tw
 
   - name: YU-CHIEH LIU (劉宇婕)
-    photo_url: https://an-shun-tai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
     year: 3
     research_interests: Causal Inference
