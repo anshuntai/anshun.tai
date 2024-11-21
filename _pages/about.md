@@ -31,6 +31,7 @@ I would welcome any email for an academic discussion.
 
 <!-- News Section -->
 ## NEWS
+- **2024/11/18, 恭喜戴安順老師榮獲臺綜大「年輕學者創新研發成果選拔」傑出獎！！！**
 - **2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate:**  
   通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」
 
