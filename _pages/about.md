@@ -13,6 +13,11 @@ permalink: /
   </div>
 </div>
 
+<!-- News Section -->
+## NEWS
+- **I’m deeply honored and grateful to receive the 2024 Outstanding Research Award for Young Scholars, Taiwan Comprehensive University System (臺灣綜合大學系統 113 年度年輕學者創新研發成果 傑出獎)**
+- 2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate:**通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」**
+
 <!-- PI Short Bio Section -->
 ## PI Short Bio
 I received my Ph.D. in Statistics at National Tsing Hua University in 2019. My current research interests are the genomic data analysis and causal inference.
@@ -27,15 +32,7 @@ I would welcome any email for an academic discussion.
 ### Contact Information:
  - **Email:** ashtai[at]gs.ncku.edu.tw
  - **Tel:** +886 6-2757575#53626
- - **Office:** 4F Room [number], Department of Statistics, No.1, University Road, Tainan 701, Taiwan
-
-<!-- News Section -->
-## NEWS
-- **2024/11/18, 恭喜戴安順老師榮獲臺綜大「年輕學者創新研發成果選拔」傑出獎！！！**
-- **2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate:**  
-  通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」
-
-
+ - **Office:** 4F Room 62445, Department of Statistics, No.1, University Road, Tainan 701, Taiwan
 
 <!-- Custom CSS for the Banner -->
 <style>
