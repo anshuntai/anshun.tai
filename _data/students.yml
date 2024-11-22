@@ -20,7 +20,7 @@ graduate:
 undergraduate:
   - name: BO-HAN YAO (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 3
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
     research_title: 113年度國科會大專生計畫「因果中介模型應用於抽菸引導的老化加速機制」("Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock")
@@ -28,45 +28,59 @@ undergraduate:
 
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 3
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116099@gs.ncku.edu.tw
 
   - name: HUA-RUI ZENG (曾華睿)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hua-Rui-ZENG.JPG
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 3
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116170@gs.ncku.edu.tw
 
   - name: FONG-YU YANG (楊豐宇)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Fong-Yu-Yang.JPG
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 3
     research_interests: false
     email: h24116170@gs.ncku.edu.tw
  
   - name: LI-CHUN WANG (王麗淳)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Li-Chun-WANG.JPG
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 2
     research_interests: false
     email: h24126086@gs.ncku.edu.tw
 
   - name: TZU-CHIAO CHOU (周子喬)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Tzu-Chiao-CHOU.JPG
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 2
     research_interests: false
     email: Chou6855@gmail.com
   
   - name: HAN-YU TSAI (蔡涵宇)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
-    department: Department of Statistics
+    department: Department of Statistics, NCKU
     year: 2
     research_interests: false
     email: H24124026@gs.ncku.edu.tw
+
+  - name: Shih-Lan Wang (王世蘭)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Shih-Lan_Wang.JPG
+    department: Department of Mathematics, National Chung Cheng University (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
+    year: 4
+    research_interests: Mendelian Randomization and Confidence Interval 
+    email: false
+
+  - name: Hsin-Yu Ko (柯妤欣)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hsin-Yu_Ko.JPG
+    department: Department of Mathematics, National Chung Cheng University (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
+    year: 4
+    research_interests: Mendelian Randomization and Confidence Interval 
+    email: false
 
 
 
@@ -75,7 +89,7 @@ research_assistants:
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics
     year: 3
-    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
+    research_interests: Epigenetic Clock, Causal Mediation Analysis, Aging, Causal Discovery, Causal ML
     email: h24111057@gs.ncku.edu.tw
 
   - name: YU-CHIEH LIU (劉宇婕)
@@ -85,14 +99,18 @@ research_assistants:
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116099@gs.ncku.edu.tw
 
+  - name: Chen-Hua Cho (卓辰樺)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Chen-Hua_Cho.JPG
+    department: M.S. in Statistics, National Chung Cheng University
+    year: false
+    research_interests: Causal Inference, Instrumental Variable Analysis
+    email: h24116099@gs.ncku.edu.tw
+
 alumni:
   - name: 楊文博
     program: M.B.A. in Statistics
     graduate_year: 2024
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
-  - name: 遙帛汗
-    program: M.B.A. in Statistics
-    graduate_year: 2024
-    thesis: abc
+
 
 

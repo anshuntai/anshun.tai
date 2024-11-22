@@ -137,7 +137,12 @@ Research Assistant:
     {% endif %}
     <div class="info">
       <strong>{{ student.name }}</strong>  
-      <br>{{ student.department }}, year {{ student.year }}  
+      {% if student.department %}
+        {% if student.year %}
+        <br>{{ student.department }}, year {{ student.year }}  
+        {% endif %}
+      <br>{{ student.department }}
+      {% endif %}  
       <ul>
         {% if student.research_interests %}
         <li>Research Interests: {{ student.research_interests }}</li>
