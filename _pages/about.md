@@ -16,7 +16,7 @@ permalink: /
 <!-- News Section -->
 ## NEWS
 - **I’m deeply honored and grateful to receive the 2024 Outstanding Research Award for Young Scholars, Taiwan Comprehensive University System (臺灣綜合大學系統 113 年度年輕學者創新研發成果 傑出獎)**
-- 2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate:**通過113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」**
+- 2024/06/24, BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate, **Awarded NSTC college student research scholarship for project "Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelarated Aging Measured by Epigenetic Clock"**(113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制)
 
 <!-- PI Short Bio Section -->
 ## PI Short Bio
