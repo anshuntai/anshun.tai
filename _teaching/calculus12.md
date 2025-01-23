@@ -4,9 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/calculus12
 venue: "NCKU, Dept. STAT"
-date: ""
+date: "2022, 2023, 2024, 2025"
 location: "Tainan, Taiwan"
-excerpt: "2022, 2023, 2024, 2025"
+excerpt: ""
 ---
 
 Syllabus Link of Calculus I:
