@@ -8,7 +8,6 @@ years: "2022, 2023, 2024, 2025"
 location: "Tainan, Taiwan"
 excerpt: ""
 ---
-
 ### Syllabus Link of Calculus I:
  * [111-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=1&co_no=H210810&class_code)
  * [112-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=1&co_no=H210810&class_code)
