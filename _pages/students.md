@@ -65,6 +65,39 @@ author_profile: true
   }
 </style>
 
+PhD student (博士生):
+-----
+{% for student in site.data.students.phd %}
+<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
+  <div class="student-block">
+    {% if student.photo_url %}
+    <div class="photo">
+      <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
+    </div>
+    {% endif %}
+    <div class="info">
+      <strong>{{ student.name }}</strong>  
+      <br>{{ student.program }}, year {{ student.year }}
+      {% if student.year %}
+        <br>{{ student.department }}, year {{ student.year }}
+      {% else %}
+        <br>{{ student.department }}
+      {% endif %}
+      <ul>
+        {% if student.research_interests %}
+        <li>Research Interests: {{ student.research_interests }}</li>
+        {% endif %} 
+        {% if student.research_title %}
+        <li>Research Title: "{{ student.research_title }}"</li>
+        {% endif %} 
+        {% if student.email %}
+        <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
+        {% endif %} 
+      </ul>
+    </div>
+  </div>
+</div>
+{% endfor %}
 
 Graduate (研究生):
 -----
