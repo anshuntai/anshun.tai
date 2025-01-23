@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/bioinformatics
 venue: "NCKU, Dept. STAT, Institute of Data Science"
-date: "2023, 2024"
+date: 2023, 2024
 location: "Tainan, Taiwan"
 excerpt: ""
 ---
