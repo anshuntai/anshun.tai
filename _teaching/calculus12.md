@@ -4,20 +4,21 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/calculus12
 venue: "NCKU, Dept. STAT"
-date: 2022, 2023, 2024, 2025
+date: "2022, 2023, 2024, 2025"
 location: "Tainan, Taiwan"
+excerpt: ""
 ---
 
 Calculus I
 ======
 授課大綱連結：
-[111-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=1&co_no=H210810&class_code)
-[112-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=1&co_no=H210810&class_code)
-[113-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=H210810&class_code
+ * [111-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=1&co_no=H210810&class_code)
+ * [112-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=1&co_no=H210810&class_code)
+ * [113-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=H210810&class_code)
 
 Calculus II
 ======
 授課大綱連結：
-[111-2](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=2&co_no=H210820&class_code)
-[112-2](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=2&co_no=H210820&class_code)
-[113-2](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=2&co_no=H210820&class_code)
+ * [111-2](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=2&co_no=H210820&class_code)
+ * [112-2](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=2&co_no=H210820&class_code)
+ * [113-2](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=2&co_no=H210820&class_code)
