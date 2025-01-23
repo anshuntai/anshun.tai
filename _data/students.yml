@@ -92,6 +92,14 @@ undergraduate:
     email: false
 
 research_assistants:
+  - name: Chen-Hua Cho (卓辰樺)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Chen-Hua_Cho.JPG
+    program: PhD student in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
+    department: M.S. in Statistics, National Chung Cheng University
+    year: false
+    research_interests: Causal Inference, Instrumental Variable Analysis
+    email: h24116099@gs.ncku.edu.tw
+
   - name: BO-HAN YAO (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics
@@ -106,12 +114,7 @@ research_assistants:
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116099@gs.ncku.edu.tw
 
-  - name: Chen-Hua Cho (卓辰樺)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Chen-Hua_Cho.JPG
-    department: M.S. in Statistics, National Chung Cheng University
-    year: false
-    research_interests: Causal Inference, Instrumental Variable Analysis
-    email: h24116099@gs.ncku.edu.tw
+
 
 alumni:
   - name: 楊文博
