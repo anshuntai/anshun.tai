@@ -1,20 +1,15 @@
 ---
-title: "Bioinformatics 生物資訊"
+title: "Bioinformatics (生物資訊)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/bioinformatics
-venue: "NCKU, Dept. STAT"
-date: 2015-01-01
-location: "City, Country"
+venue: "NCKU, Dept. STAT, Institute of Data Science"
+date: 2023, 2024
+location: "Tainan, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Bioinformatics
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+授課大綱連結：
+[111-2](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=2&co_no=RE50500&class_code=)
+[112-2](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=2&co_no=RE50500&class_code=)
