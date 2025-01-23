@@ -17,6 +17,8 @@ Education
 
 Academic Experience
 ------
+ * 2025 Feb - Now: Adjunct Assistant Professor, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
+
  * 2022 - Now: Assistant Professor, Department of Statistics, National Cheng Kung University, Taiwan
 
  * 2019 - 2022: Postdoctoral Fellow, Institute of Statistics, National Chiao-Tung University, Taiwan.
@@ -26,9 +28,10 @@ Academic Experience
 Journal Referee
 -----
 Statistics Journals:
- * Lifetime Data Analysis (2024)
  * Journal of the American Statistical Association (JASA) (2024)
  * Statistica Sinica (2021, 2022, 2023, 2024)
+ * Statistics in Medicine (2024)
+ * Lifetime Data Analysis (2024)
  * Australian & New Zealand Journal of Statistics (2022)
  * Journal of Data Science, Statistics, and Visualisation (2022)
 
@@ -56,6 +59,8 @@ Scientific Journals:
 
 Honors and Awards
 -----
+ * 2024 Outstanding Research Award (National Cheng Kung University - College of Management)
+ * 2024 Outstanding Research Award for Young Scholars, Taiwan Comprehensive University System (臺灣綜合大學系統 113 年度年輕學者創新研發成果 傑出獎)
  * 2021 MOST Postdoctoral Researcher Academic Research Award (科技部 110 年度博士後研究人員學
 術研究獎)
  * 2019 Travel grant award from Ministry of Science and Technology (MOST) to attend ASHG 2019 (國
