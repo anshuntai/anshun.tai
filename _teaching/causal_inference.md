@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/causal_inference
 venue: "NCKU, Dept. STAT"
-date: false
+date: "2025-01-01"
 years: "2025"
 location: "Tainan, Taiwan"
 excerpt: ""
