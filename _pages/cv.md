@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<h2>Curriculum Vitae</h2>
-
 <p>You can view or download my CV using the link below:</p>
 <ul>
   <li><a href="https://anshuntai.github.io/anshun.tai/files/CV_AnShun_20250123.pdf" target="_blank">Download CV (PDF)</a></li>
