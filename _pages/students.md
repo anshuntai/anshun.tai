@@ -77,7 +77,7 @@ PhD student (博士生):
     {% endif %}
     <div class="info">
       <strong>{{ student.name }}</strong>  
-      <br>Program:{{ student.program }}
+      <br>Program: {{ student.program }}
       {% if student.year %}
         <br>{{ student.department }}, year {{ student.year }}
       {% else %}
@@ -111,8 +111,8 @@ Graduate (研究生):
     {% endif %}
     <div class="info">
       <strong>{{ student.name }}</strong>  
-      <br>Program:{{ student.program }}
-      <br>Year {{ student.year }}
+      <br>Program: {{ student.program }}
+      <br>Year: {{ student.year }}
       <ul>
         {% if student.research_interests %}
         <li>Research Interests: {{ student.research_interests }}</li>
