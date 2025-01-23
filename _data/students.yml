@@ -10,7 +10,7 @@ phd:
 graduate:
   - name: PEI-CHUN CHEN (陳沛群)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
-    program: M.B.A. in Statistics
+    program: M.B.A. in Statistics, NCKU dept.STAT
     year: 2
     research_interests: Bioinformatics, Next-generation sequencing, Single cell sequencing, Cell type annotation
     research_title: false
@@ -18,7 +18,7 @@ graduate:
 
   - name: CHENG-YU LEE (李承祐)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Cheng-Yu-LEE.jpg
-    program: M.B.A. in Statistics
+    program: M.B.A. in Statistics, NCKU dept.STAT
     year: 2
     research_interests: Instrumental variable analysis, Surrogate endpoint analysis
     email: false

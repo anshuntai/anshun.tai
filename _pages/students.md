@@ -99,35 +99,6 @@ PhD student (博士生):
 </div>
 {% endfor %}
 
-{% for student in site.data.students.research_assistants %}
-<div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">
-  <div class="student-block">
-    {% if student.photo_url %}
-    <div class="photo">
-      <img src="{{ student.photo_url }}" alt="Photo of {{ student.name }}">
-    </div>
-    {% endif %}
-    <div class="info">
-      <strong>{{ student.name }}</strong>  
-      {% if student.year %}
-        <br>{{ student.department }}, year {{ student.year }}
-      {% else %}
-        <br>{{ student.department }}
-      {% endif %}
-      <ul>
-        {% if student.research_interests %}
-        <li>Research Interests: {{ student.research_interests }}</li>
-        {% endif %}  
-        {% if student.email %}
-        <li>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></li> 
-        {% endif %} 
-      </ul>
-    </div>
-  </div>
-</div>
-{% endfor %}
-
-
 Graduate (研究生):
 -----
 {% for student in site.data.students.graduate %}
