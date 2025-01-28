@@ -14,7 +14,6 @@ Publication Summary:
     allowfullscreen>
   </iframe>
 </div>
-
 (A) Major work
 -----
   * Published or In press​:
@@ -25,14 +24,14 @@ Publication Summary:
     5. **An-Shun Tai**, Ro-Ting Lin*, Yi-Chun Lin, Chung-Hsing Wang, Sheng-Hsuan Lin, Seiya Imoto (2022 Aug). Genome-wide causal mediation analysis identifies genetic loci associated with uterine fibroids mediated by age at menarche. **Human Reproduction**. 37(9): 2197-2212. doi: 10.1093/humrep/deac136. **(IF=6.353, Rank=4/31)** [Link](https://doi.org/10.1093/humrep/deac136)
     6. **An-Shun Tai**, Pei-Hsuan Lin, Yen-Tsung Huang, and Sheng-Hsuan Lin* (2022). Path-specific effects in the presence of a survival outcome and causally ordered multiple mediators with application to genomic data. **Statistical Methods in Medical Research**. 31(10): 1916-1933. doi: 10.1177/09622802221104239 [Link](https://biostats.bepress.com/harvardbiostat/paper218/)
     7. **An-Shun Tai**, Le-Hsuan Liao, and Sheng-Hsuan Lin* (2022). On the conventional definition of path-specific effects - fully mediated interaction with multiple ordered mediators. **Epidemiology**. 33(6): p 817-827. DOI: 10.1097/EDE.0000000000001520. [Link](https://biostats.bepress.com/harvardbiostat/paper229/)
-    8. **An-Shun Tai**, Chun-Chao Wang, and Wen-Ping Hsieh* (2022). Detection of cell separation–induced gene expression through a penalized deconvolution approach. **Statistics in Biosciences**.https://doi.org/10.1007/s12561-022-09344-8. [Link](https://doi.org/10.1007/s12561-022-09344-8)
+    8. **An-Shun Tai**, Chun-Chao Wang, and Wen-Ping Hsieh* (2022). Detection of cell separation–induced gene expression through a penalized deconvolution approach. **Statistics in Biosciences**. https://doi.org/10.1007/s12561-022-09344-8. [Link](https://doi.org/10.1007/s12561-022-09344-8)
     9. **An-Shun Tai** and Sheng-Hsuan Lin* (2022). Identification and robust estimation of swapped direct and indirect effects: Mediation analysis with unmeasured mediator–outcome confounding and intermediate confounding. **Statistics in Medicine**. https://doi.org/10.1002/sim.9501. [Link](https://biostats.bepress.com/harvardbiostat/paper226/)
     10. **An-Shun Tai**, Yi-Juan Du, and Sheng-Hsuan Lin* (2022). Robust inference on effects attributable to mediators: A controlled-direct-effect-based approach for causal effect decomposition with multiple mediators. **Statistics in Medicine**. https://doi.org/10.1002/sim.9329. [Link](https://doi.org/10.1002/sim.9329)
     11. **An-Shun Tai**, Yen-Tsung Huang, Hwai-I Yang, Lauren V. Lan, and Sheng-Hsuan Lin* (2022). G-computation to causal mediation analysis with sequential multiple mediators – investigating the vulnerable time window of HBV activity for the mechanism of HCV induced hepatocellular carcinoma. **Frontiers in Public Health**. doi: 10.3389/fpubh.2021.757942. [Link](https://doi.org/10.3389/fpubh.2021.757942)
     12. **An-Shun Tai** and Sheng-Hsuan Lin* (2021). Integrated multiple mediation analysis: A robustness–specificity trade-off in causal structure. **Statistics in Medicine**. https://doi.org/10.1002/sim.9079. [Link](https://doi.org/10.1002/sim.9079)
     13. **An-Shun Tai**, Chun-An Tsai, and Sheng-Hsuan Lin* (2021). Survival mediation analysis with the death-truncated mediator: The completeness of the survival mediation parameter. **Statistics in Medicine**. https://doi.org/10.1002/sim.9008. [Link](https://doi.org/10.1002/sim.9008)
     14. **An-Shun Tai**, George C. Tseng, and Wen-Ping Hsieh* (2021). BayICE: A Bayesian hierarchical model for semi-reference-based deconvolution of bulk transcriptomic data. **Annals of Applied Statistics**. 15(1): 391 - 411. https://doi.org/10.1214/20-AOAS1376. [Link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/BayICE--A-Bayesian-hierarchical-model-for-semireference-based-deconvolution/10.1214/20-AOAS1376.full) [R code](https://github.com/AshTai/BayICE)
-    15. **An-Shun Tai**, Chien-Hua Peng*, Shih-Chi Peng, and Wen-Ping Hsieh* (2018). Decomposing the subclonal structure of tumors with two-way mixture models on copy number aberrations. **PLOS ONE**. 13(12): e0206579. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206579) [R code](https://github.com/AshTai/CloneDeMix)
+    15. **An-Shun Tai**, Chien-Hua Peng*, Shih-Chi Peng, and Wen-Ping Hsieh* (2018). Decomposing the subclonal structure of tumors with two-way mixture models on copy number aberrations. **PLOS ONE**. 13(12): e0206579. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206579)|[R code](https://github.com/AshTai/CloneDeMix)
 
   * Papers in review or in revision:​
     1. **An-Shun Tai***(2024+). Robust and flexible high-dimensional causal mediation model for DNA methylation studies. In preparation.
