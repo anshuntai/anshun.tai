@@ -11,8 +11,8 @@ excerpt: ""
 share: false
 ---
 
-<div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px; margin-bottom: 5px; padding-top: 5px;">
-  <h1>STAT6061: Causal Inference</h1>
+<div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px; margin-bottom: 5px; padding-top: 15px;">
+  <h1 style="font-size: 2.5em;">STAT6061: Causal Inference</h1>
 </div>
 
 <h2>Course Outline</h2>
@@ -80,24 +80,3 @@ share: false
     </ul>
   </li>
 </ol>
-
-<h2>Prerequisites</h2>
-<ul>
-  <li>Basic knowledge of probability theory</li>
-  <li>Understanding of statistical inference</li>
-  <li>Familiarity with linear regression</li>
-  <li>Familiarity with logistic regression</li>
-  <li>Experience with R programming</li>
-  <li>Basic knowledge of survival analysis (optional)</li>
-</ul>
-
-<h2>Textbook</h2>
-<p>This course has no specific textbook and is primarily based on lecture notes and various papers.</p>
-
-<h2>Reference Books</h2>
-<ul>
-  <li>Ding, P. (2024). A First Course in Causal Inference.</li>
-  <li>Hernán, M. A. &amp; Robins, J. M. (2020). Causal Inference: What If.</li>
-  <li>Brumback, B. A. (2021). Fundamentals of Causal Inference: With R.</li>
-  <li>Pearl, J., &amp; Mackenzie, D. (2018). The book of why: the new science of cause and effect.</li>
-</ul>
