@@ -11,20 +11,11 @@ excerpt: ""
 share: false
 ---
 
-<div style="text-align: center; border-bottom: 1px solid #000">
+<div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px;">
   <h1>Causal Inference</h1>
-  <p><strong>Institution:</strong> National Cheng Kung University, Department of Statistics (成大統計系)</p>
-  <p><strong>Term:</strong> February 2025 ~ June 2025</p>
-  <p><strong>Instructor:</strong> An-Shun Tai (戴安順)</p>
 </div>
 
-<h2>Syllabus Link</h2>
-<ul>
-<li><a href="https://anshuntai.github.io/anshun.tai/files/Causal_Inference_Syllabus.pdf" target="_blank">PDF</a></li>
-<li><a href="https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=2&co_no=R254900&class_code=" target="_blank">113-2 選課系統課程大綱</a></li>
-</ul>
-
-<h2>Course Outline</h2>
+<h2>STAT6061: Course Outline</h2>
 <ol>
   <li>
     <strong>Part 1. Introduction</strong>
@@ -110,6 +101,3 @@ share: false
   <li>Brumback, B. A. (2021). Fundamentals of Causal Inference: With R.</li>
   <li>Pearl, J., &amp; Mackenzie, D. (2018). The book of why: the new science of cause and effect.</li>
 </ul>
-
-<h2>Grading</h2>
-<p>Your grade will be determined by Homework Assignments (50%) and Final Project (50%).</p>
