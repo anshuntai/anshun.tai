@@ -11,11 +11,11 @@ excerpt: ""
 share: false
 ---
 
-<div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px;">
-  <h1>Causal Inference</h1>
+<div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px; margin-bottom: 5px; padding-top: 5px;">
+  <h1>STAT6061: Causal Inference</h1>
 </div>
 
-<h2>STAT6061: Course Outline</h2>
+<h2>Course Outline</h2>
 <ol>
   <li>
     <strong>Part 1. Introduction</strong>
