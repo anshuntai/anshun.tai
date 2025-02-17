@@ -16,7 +16,7 @@ share: false
 </div>
 
 <h2>Course Outline</h2>
-<ol>
+<ol style="list-style: none; padding-left: 0;">
   <li>
     <strong>Part 1. Introduction</strong>
     <ul>
