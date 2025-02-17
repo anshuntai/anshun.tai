@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: "STAT6061 Causal Inference (因果推論)"
 collection: teaching
 type: "Graduate course"

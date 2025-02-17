@@ -9,24 +9,14 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <style>
-      /* Add a container with max-width and horizontal padding */
-      .container {
-        max-width: 960px;
-        margin: 0 auto;
-        padding: 0 20px;
-      }
-    </style>
   </head>
+
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <!-- Wrap the content in the container -->
-    <div class="container">
-      {{ content }}
-    </div>
+    {{ content }}
 
     <div class="page__footer">
       <footer>
