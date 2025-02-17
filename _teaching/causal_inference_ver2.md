@@ -11,7 +11,7 @@ share: false
 ---
 
 <div style="text-align: center; border-bottom: 1px solid #000">
-  <h1>Causal Inference Syllabus</h1>
+  <h1>Causal Inference</h1>
   <p><strong>Institution:</strong> National Cheng Kung University, Department of Statistics (成大統計系)</p>
   <p><strong>Term:</strong> February 2025 ~ June 2025</p>
   <p><strong>Instructor:</strong> An-Shun Tai (戴安順)</p>
