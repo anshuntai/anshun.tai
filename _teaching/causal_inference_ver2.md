@@ -12,7 +12,7 @@ share: false
 ---
 
 <div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px; margin-bottom: 5px; padding-top: 15px;">
-  <h1 style="font-size: 2em;">STAT6061: Causal Inference</h1>
+  <h1>STAT6061: Causal Inference</h1>
 </div>
 
 <h2>Course Outline</h2>
