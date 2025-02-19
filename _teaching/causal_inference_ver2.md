@@ -22,7 +22,7 @@ share: false
     <ul>
       <li>
         1-1. Introduction to Causal Inference
-        <a href="https://anshuntai.github.io/anshun.tai/files/lecture_name.pdf" target="_blank">[Lecture Slide]</a>
+        <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-1.pdf" target="_blank">[Lecture Slide]</a>
       </li>
       <li>1-2. Counterfactual Framework and Causal Estimands</li>
       <li>1-3. Assumption and Identification</li>
