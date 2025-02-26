@@ -302,10 +302,12 @@ Published or In press​:
   </li>
 </ol>
 
+
 Papers in review or in revision:​
   1. **An-Shun Tai***(2024+). Robust and flexible high-dimensional causal mediation model for DNA methylation studies. In preparation.
   2. **An-Shun Tai*** (2024+). Robust semiparametric estimation of average causal effects in Mendelian randomization under an intermediate variable intervention. In preparation.
   3. **An-Shun Tai**, Yu-Cheng Chu, and Sheng-Hsuan Lin* (2024+). Causal mediation analysis of non-mortality outcomes with follow-up truncated by death: Survivor natural direct and indirect effect. Revision in **Journal of the Royal Statistical Society, Series C (Applied Statistics)**.
+
 
 (B) Collaborative work
 -----
