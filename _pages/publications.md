@@ -21,17 +21,20 @@ Publication Summary:
     1. Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and **An-Shun Tai*** (2024). Robust inference for causal mediation analysis of recurrent event data. **Statistics in Medicine**. 43(16): 3020-3035. doi: 10.1002/sim.10118. [Link](https://doi.org/10.1002/sim.10118)
 
     <div class="paper-entry">
-      <p>
-        Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and 
-        <strong>An-Shun Tai*</strong> (2024). Robust inference for causal mediation analysis of recurrent event data. 
-        <strong>Statistics in Medicine</strong>. 43(16): 3020-3035. doi: 10.1002/sim.10118. 
-        <a href="https://doi.org/10.1002/sim.10118">Link</a>
-      </p>
-      <div class="btn-group">
-        <a href="https://doi.org/10.1002/sim.10118" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+      <div class="paper-text">
+        <p>
+          Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and 
+          <strong>An-Shun Tai*</strong> (2024). Robust inference for causal mediation analysis of recurrent event data. 
+          <strong>Statistics in Medicine</strong>. 43(16): 3020-3035. doi: 10.1002/sim.10118. 
+        </p>
       </div>
-      <div class="jcr-ranking">
-        <span>Q1, IF=1.8, Rank=32/168, Category STATISTICS &amp; PROBABILITY</span>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://doi.org/10.1002/sim.10118" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q1, IF=1.8, Rank=32/168, Category STATISTICS &amp; PROBABILITY</span>
+        </div>
       </div>
     </div>
 
