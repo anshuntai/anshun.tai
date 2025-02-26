@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: 
 author_profile: true
 ---
 
@@ -301,7 +301,6 @@ Published or In press​:
     </div>
   </li>
 </ol>
-
 
 Papers in review or in revision:​
   1. **An-Shun Tai***(2024+). Robust and flexible high-dimensional causal mediation model for DNA methylation studies. In preparation.
