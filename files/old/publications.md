@@ -17,131 +17,13 @@ Publication Summary:
 
 (A) Major work
 -----
-* Published or In press​:
+  * Published or In press​:
+    1. Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and **An-Shun Tai*** (2024). Robust inference for causal mediation analysis of recurrent event data. **Statistics in Medicine**. 43(16): 3020-3035. doi: 10.1002/sim.10118. [Link](https://doi.org/10.1002/sim.10118)
 
-<ol class="papers-list">
-  <li>
-    <div class="paper-entry">
-      <div class="paper-text">
-        <p>
-          Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and 
-          <strong>An-Shun Tai*</strong> (2024). Robust inference for causal mediation analysis of recurrent event data. 
-          <strong>Statistics in Medicine</strong>. 43(16): 3020-3035. doi: 10.1002/sim.10118. 
-        </p>
-      </div>
-      <div class="paper-footer">
-        <div class="btn-group">
-          <a href="https://doi.org/10.1002/sim.10118" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=1.8, Rank=32/168, Category STATISTICS &amp; PROBABILITY</span>
-        </div>
-      </div>
-    </div>
-  </li>
-
-  <li>
-    <div class="paper-entry">
-      <div class="paper-text">
-        <p>
-          <strong>An-Shun Tai</strong> and Sheng-Hsuan Lin* (2024). Multiply robust estimation of natural indirect effects with multiple ordered mediators.
-          <strong>Statistics in Medicine</strong>. 43(4):656-673. doi: 10.1002/sim.9977
-        </p>
-      </div>
-      <div class="paper-footer">
-        <div class="btn-group">
-          <a href="https://doi.org/10.1002/sim.9977" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
-        </div>
-        <div class="btn-group">
-          <a href="https://github.com/AshTai/MedMR" class="btn btn-default btn-xs" role="button" title="R Code">R Code</a>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=1.8, Rank=32/168, Category STATISTICS &amp; PROBABILITY</span>
-        </div>
-      </div>
-    </div>
-  </li> 
-
-  <li>
-    <div class="paper-entry">
-      <div class="paper-text">
-        <p>
-          <strong>An-Shun Tai</strong> and Sheng-Hsuan Lin* (2023). Complete effect decomposition for an arbitrary number of multiple ordered mediators with time-varying confounders: A method for generalized causal multi-mediation analysis.
-          <strong>Statistical Methods in Medical Research</strong>. 32(1), 100-117.
-        </p>
-      </div>
-      <div class="paper-footer">
-        <div class="btn-group">
-          <a href="https://doi.org/10.1177/09622802221130580" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=1.6, Rank=38/168, Category: STATISTICS &amp; PROBABILITY</span>
-        </div>
-      </div>
-    </div>
-  </li>
-
-  <li>
-    <div class="paper-entry">
-      <div class="paper-text">
-        <p>
-          <strong>An-Shun Tai</strong>, Sheng-Hsuan Lin*, Yu-Cheng Chu, Tsung Yu, Milo A. Puhan, and Tyler VanderWeele (2023). Causal mediation analysis with multiple time-varying mediators. 
-          <strong>Epidemiology</strong>. 34(1): p 8-19.
-        </p>
-      </div>
-      <div class="paper-footer">
-        <div class="btn-group">
-          <a href="https://biostats.bepress.com/harvardbiostat/paper228/" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=4.7, Rank=41/408, Category: PUBLIC, ENVIRONMENTAL &amp; OCCUPATIONAL HEALTH</span>
-        </div>
-      </div>
-    </div>
-  </li>
-
-  <li>
-    <div class="paper-entry">
-      <div class="paper-text">
-        <p>
-          <strong>An-Shun Tai</strong>, Ro-Ting Lin*, Yi-Chun Lin, Chung-Hsing Wang, Sheng-Hsuan Lin, Seiya Imoto (2022 Aug). Genome-wide causal mediation analysis identifies genetic loci associated with uterine fibroids mediated by age at menarche. 
-          <strong>Human Reproduction</strong>. 37(9): 2197-2212. doi: 10.1093/humrep/deac136.
-        </p>
-      </div>
-      <div class="paper-footer">
-        <div class="btn-group">
-          <a href="https://doi.org/10.1093/humrep/deac136" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=6.353, Rank=4/31, Category: REPRODUCTIVE BIOLOGY</span>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=6.353, Rank=9/85, Category: OBSTETRICS &amp; GYNECOLOGY</span>
-        </div>
-      </div>
-    </div>
-  </li>
-
-  <li>
-    <div class="paper-entry">
-      <div class="paper-text">
-        <p>
-          <strong>An-Shun Tai</strong>, Pei-Hsuan Lin, Yen-Tsung Huang, and Sheng-Hsuan Lin* (2022). Path-specific effects in the presence of a survival outcome and causally ordered multiple mediators with application to genomic data. 
-          <strong>Statistical Methods in Medical Research</strong>. 31(10): 1916-1933. doi: 10.1177/09622802221104239
-        </p>
-      </div>
-      <div class="paper-footer">
-        <div class="btn-group">
-          <a href="https://biostats.bepress.com/harvardbiostat/paper218/" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
-        </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=2.3, Rank=27/125, Category: STATISTICS &amp; PROBABILITY</span>
-        </div>
-        </div>
-      </div>
-    </div>
-  </li>
-
+    2. **An-Shun Tai** and Sheng-Hsuan Lin* (2024). Multiply robust estimation of natural indirect effects with multiple ordered mediators. **Statistics in Medicine**. 43(4):656-673. doi: 10.1002/sim.9977 [Link](https://doi.org/10.1002/sim.9977) [R code](https://github.com/AshTai/MedMR)
+    3. **An-Shun Tai** and Sheng-Hsuan Lin* (2023). Complete effect decomposition for an arbitrary number of multiple ordered mediators with time-varying confounders: A method for generalized causal multi-mediation analysis. **Statistical Methods in Medical Research**. 32(1), 100-117. [Link](https://doi.org/10.1177/09622802221130580)
+    4. **An-Shun Tai**, Sheng-Hsuan Lin*, Yu-Cheng Chu, Tsung Yu, Milo A. Puhan, and Tyler VanderWeele (2023). Causal mediation analysis with multiple time-varying mediators. **Epidemiology**. 34(1): p 8-19 [Link](https://biostats.bepress.com/harvardbiostat/paper228/)
+    5. **An-Shun Tai**, Ro-Ting Lin*, Yi-Chun Lin, Chung-Hsing Wang, Sheng-Hsuan Lin, Seiya Imoto (2022 Aug). Genome-wide causal mediation analysis identifies genetic loci associated with uterine fibroids mediated by age at menarche. **Human Reproduction**. 37(9): 2197-2212. doi: 10.1093/humrep/deac136. **(IF=6.353, Rank=4/31)** [Link](https://doi.org/10.1093/humrep/deac136)
     6. **An-Shun Tai**, Pei-Hsuan Lin, Yen-Tsung Huang, and Sheng-Hsuan Lin* (2022). Path-specific effects in the presence of a survival outcome and causally ordered multiple mediators with application to genomic data. **Statistical Methods in Medical Research**. 31(10): 1916-1933. doi: 10.1177/09622802221104239 [Link](https://biostats.bepress.com/harvardbiostat/paper218/)
     7. **An-Shun Tai**, Le-Hsuan Liao, and Sheng-Hsuan Lin* (2022). On the conventional definition of path-specific effects - fully mediated interaction with multiple ordered mediators. **Epidemiology**. 33(6): p 817-827. DOI: 10.1097/EDE.0000000000001520. [Link](https://biostats.bepress.com/harvardbiostat/paper229/)
     8. **An-Shun Tai**, Chun-Chao Wang, and Wen-Ping Hsieh* (2022). Detection of cell separation–induced gene expression through a penalized deconvolution approach. **Statistics in Biosciences**. https://doi.org/10.1007/s12561-022-09344-8. [Link](https://doi.org/10.1007/s12561-022-09344-8)
@@ -157,8 +39,6 @@ Publication Summary:
     1. **An-Shun Tai***(2024+). Robust and flexible high-dimensional causal mediation model for DNA methylation studies. In preparation.
     2. **An-Shun Tai*** (2024+). Robust semiparametric estimation of average causal effects in Mendelian randomization under an intermediate variable intervention. In preparation.
     3. **An-Shun Tai**, Yu-Cheng Chu, and Sheng-Hsuan Lin* (2024+). Causal mediation analysis of non-mortality outcomes with follow-up truncated by death: Survivor natural direct and indirect effect. Revision in **Journal of the Royal Statistical Society, Series C (Applied Statistics)**.
-
-</ol>
 
 (B) Collaborative work
 -----
