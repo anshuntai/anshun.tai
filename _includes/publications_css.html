@@ -1,12 +1,12 @@
 <style>
-  /* Container for each paper entry with a black border */
+  /* Container for each paper entry with a full black border */
   .paper-entry {
     border: 1px solid black;
     margin: 20px 0;
     background-color: #fff;
   }
   
-  /* Publication text section with padding and a bottom border */
+  /* Publication text section with padding and a bottom divider */
   .paper-text {
     padding: 15px 20px;
     border-bottom: 1px solid black;
@@ -14,26 +14,27 @@
     line-height: 1.5;
   }
   
-  /* Footer section: using flex to align the button on the left and ranking on the right */
+  /* Footer section set up as a flex container */
   .paper-footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
   }
   
-  /* Ensure the button group inside the footer has no extra margin */
+  /* Left side: the paper button with a right border divider */
   .paper-footer .btn-group {
-    margin: 0;
+    padding: 10px 20px;
+    border-right: 1px solid black;
   }
   
-  /* Styling for the ranking text */
+  /* Right side: ranking text with matching padding */
   .paper-footer .jcr-ranking {
+    padding: 10px 20px;
     font-size: 0.85em;
     color: #555;
   }
   
-  /* Remove any hover effects */
+  /* Ensure no hover effects */
   .paper-entry:hover {
     transform: none;
     background-color: #fff;
