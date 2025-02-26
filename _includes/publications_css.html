@@ -1,47 +1,42 @@
 <style>
-    /* Container for each paper entry */
-    .paper-entry {
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      background-color: #fff;
-      padding: 15px 20px;
-      margin: 20px 0;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      transition: transform 0.2s ease, background-color 0.2s ease;
-    }
-    
-    /* Hover effect for a subtle lift */
-    .paper-entry:hover {
-      transform: translateY(-3px);
-      background-color: #f9f9f9;
-    }
-    
-    /* Styling for publication details */
-    .paper-entry p {
-      margin: 0 0 10px;
-      line-height: 1.5;
-      font-size: 0.95em;
-    }
-    
-    /* Adjustments for button group (Bootstrap classes can be used for buttons) */
-    .paper-entry .btn-group {
-      margin-bottom: 10px;
-    }
-    
-    /* JCR ranking styling */
-    .paper-entry .jcr-ranking {
-      font-size: 0.85em;
-      color: #555;
-      padding-top: 5px;
-      border-top: 1px solid #eee;
-      margin-top: 10px;
-    }
-    
-    /* Responsive adjustments */
-    @media (max-width: 768px) {
-      .paper-entry {
-        padding: 10px 15px;
-      }
-    }
+  /* Container for each paper entry with a black border */
+  .paper-entry {
+    border: 1px solid black;
+    margin: 20px 0;
+    background-color: #fff;
+  }
+  
+  /* Publication text section with padding and a bottom border */
+  .paper-text {
+    padding: 15px 20px;
+    border-bottom: 1px solid black;
+    font-size: 0.95em;
+    line-height: 1.5;
+  }
+  
+  /* Footer section: using flex to align the button on the left and ranking on the right */
+  .paper-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  /* Ensure the button group inside the footer has no extra margin */
+  .paper-footer .btn-group {
+    margin: 0;
+  }
+  
+  /* Styling for the ranking text */
+  .paper-footer .jcr-ranking {
+    font-size: 0.85em;
+    color: #555;
+  }
+  
+  /* Remove any hover effects */
+  .paper-entry:hover {
+    transform: none;
+    background-color: #fff;
+  }
 </style>
-    
+  
