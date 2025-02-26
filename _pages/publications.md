@@ -19,6 +19,23 @@ Publication Summary:
 -----
   * Published or In press​:
     1. Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and **An-Shun Tai*** (2024). Robust inference for causal mediation analysis of recurrent event data. **Statistics in Medicine**. 43(16): 3020-3035. doi: 10.1002/sim.10118. [Link](https://doi.org/10.1002/sim.10118)
+    
+    1.
+    <div class="paper-entry">
+      <p>
+        Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, and 
+        <strong>An-Shun Tai*</strong> (2024). Robust inference for causal mediation analysis of recurrent event data. 
+        <strong>Statistics in Medicine</strong>. 43(16): 3020-3035. doi: 10.1002/sim.10118. 
+        <a href="https://doi.org/10.1002/sim.10118">Link</a>
+      </p>
+      <div class="btn-group">
+        <a href="https://doi.org/10.1002/sim.10118" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+      </div>
+      <div class="jcr-ranking">
+        <span>JCR Ranking: Q1, IF=1.8, Rank=32/168, Category STATISTICS &amp; PROBABILITY</span>
+      </div>
+    </div>
+
     2. **An-Shun Tai** and Sheng-Hsuan Lin* (2024). Multiply robust estimation of natural indirect effects with multiple ordered mediators. **Statistics in Medicine**. 43(4):656-673. doi: 10.1002/sim.9977 [Link](https://doi.org/10.1002/sim.9977) [R code](https://github.com/AshTai/MedMR)
     3. **An-Shun Tai** and Sheng-Hsuan Lin* (2023). Complete effect decomposition for an arbitrary number of multiple ordered mediators with time-varying confounders: A method for generalized causal multi-mediation analysis. **Statistical Methods in Medical Research**. 32(1), 100-117. [Link](https://doi.org/10.1177/09622802221130580)
     4. **An-Shun Tai**, Sheng-Hsuan Lin*, Yu-Cheng Chu, Tsung Yu, Milo A. Puhan, and Tyler VanderWeele (2023). Causal mediation analysis with multiple time-varying mediators. **Epidemiology**. 34(1): p 8-19 [Link](https://biostats.bepress.com/harvardbiostat/paper228/)
