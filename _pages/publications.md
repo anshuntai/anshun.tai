@@ -39,7 +39,6 @@ Published or In press​:
       </div>
     </div>
   </li>
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -61,7 +60,6 @@ Published or In press​:
       </div>
     </div>
   </li> 
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -80,7 +78,6 @@ Published or In press​:
       </div>
     </div>
   </li>
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -99,7 +96,6 @@ Published or In press​:
       </div>
     </div>
   </li>
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -115,13 +111,9 @@ Published or In press​:
         <div class="jcr-ranking">
           <span>Q1, IF=6.353, Rank=4/31, Category: REPRODUCTIVE BIOLOGY</span>
         </div>
-        <div class="jcr-ranking">
-          <span>Q1, IF=6.353, Rank=9/85, Category: OBSTETRICS &amp; GYNECOLOGY</span>
-        </div>
       </div>
     </div>
   </li>
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -137,11 +129,9 @@ Published or In press​:
         <div class="jcr-ranking">
           <span>Q1, IF=2.3, Rank=27/125, Category: STATISTICS &amp; PROBABILITY</span>
         </div>
-        </div>
       </div>
     </div>
   </li>
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -160,7 +150,6 @@ Published or In press​:
       </div>
     </div>
   </li>
-
   <li>
     <div class="paper-entry">
       <div class="paper-text">
@@ -174,11 +163,144 @@ Published or In press​:
           <a href="https://doi.org/10.1007/s12561-022-09344-8" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
         </div>
         <div class="jcr-ranking">
-          <span>Q1, IF=5.4, Rank=41/204, Category: PUBLIC, ENVIRONMENTAL &amp; OCCUPATIONAL HEALTH</span>
+          <span>Q4, IF=1.0, Rank=61/66, Category: MATHEMATICAL &amp; COMPUTATIONAL BIOLOGY</span>
         </div>
       </div>
     </div>
   </li>
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong> and Sheng-Hsuan Lin* (2022). Identification and robust estimation of swapped direct and indirect effects: Mediation analysis with unmeasured mediator–outcome confounding and intermediate confounding.
+          <strong>Statistics in Medicine</strong>. https://doi.org/10.1002/sim.9501.
+        </p>
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://biostats.bepress.com/harvardbiostat/paper226/" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q2, IF=2.0, Rank=34/125, Category: STATISTICS &amp; PROBABILITY</span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong>, Yi-Juan Du, and Sheng-Hsuan Lin* (2022). Robust inference on effects attributable to mediators: A controlled-direct-effect-based approach for causal effect decomposition with multiple mediators. 
+          <strong>Statistics in Medicine</strong>. https://doi.org/10.1002/sim.9329.
+        </p>
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://doi.org/10.1002/sim.9329" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q2, IF=2.0, Rank=34/125, Category: STATISTICS &amp; PROBABILITY</span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong>, Yen-Tsung Huang, Hwai-I Yang, Lauren V. Lan, and Sheng-Hsuan Lin* (2022). G-computation to causal mediation analysis with sequential multiple mediators – investigating the vulnerable time window of HBV activity for the mechanism of HCV induced hepatocellular carcinoma.
+          <strong>Frontiers in Public Health</strong>. doi: 10.3389/fpubh.2021.757942.
+        </p>
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://doi.org/10.3389/fpubh.2021.757942" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q1, IF=5.2, Rank=43/207, Category: PUBLIC, ENVIRONMENTAL &amp; OCCUPATIONAL HEALTH</span>
+        </div>
+      </div>
+    </div>
+  </li>
+
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong> and Sheng-Hsuan Lin* (2021). Integrated multiple mediation analysis: A robustness–specificity trade-off in causal structure. 
+          <strong>Statistics in Medicine</strong>. https://doi.org/10.1002/sim.9079.
+        </p>
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://doi.org/10.1002/sim.9079" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q2, IF=2.0, Rank=34/125, Category: STATISTICS &amp; PROBABILITY</span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong> Chun-An Tsai, and Sheng-Hsuan Lin* (2021). Survival mediation analysis with the death-truncated mediator: The completeness of the survival mediation parameter. 
+          <strong>Statistics in Medicine</strong>. https://doi.org/10.1002/sim.9008.
+        </p>
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://doi.org/10.1002/sim.9008" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q1, IF=2.497, Rank=26/125, Category: STATISTICS &amp; PROBABILITY</span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong>, George C. Tseng, and Wen-Ping Hsieh* (2021). BayICE: A Bayesian hierarchical model for semi-reference-based deconvolution of bulk transcriptomic data. 
+          <strong>Annals of Applied Statistics</strong>. 15(1): 391 - 411. https://doi.org/10.1214/20-AOAS1376.
+        </p>
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/BayICE--A-Bayesian-hierarchical-model-for-semireference-based-deconvolution/10.1214/20-AOAS1376.full" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="btn-group">
+          <a href="https://github.com/AshTai/BayICE" class="btn btn-default btn-xs" role="button" title="R Code">R Code</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q2, IF=1.959, Rank=46/125, Category: STATISTICS &amp; PROBABILITY</span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="paper-entry">
+      <div class="paper-text">
+        <p>
+          <strong>An-Shun Tai</strong>, Chien-Hua Peng*, Shih-Chi Peng, and Wen-Ping Hsieh* (2018). Decomposing the subclonal structure of tumors with two-way mixture models on copy number aberrations.
+          <strong>PLOS ONE</strong>. 13(12): e0206579. 
+      </div>
+      <div class="paper-footer">
+        <div class="btn-group">
+          <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206579" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
+        </div>
+        <div class="btn-group">
+          <a href="https://github.com/AshTai/CloneDeMix" class="btn btn-default btn-xs" role="button" title="R Code">R Code</a>
+        </div>
+        <div class="jcr-ranking">
+          <span>Q2, IF=2.74, Rank=24/69, Category: MULTIDISCIPLINARY SCIENCES</span>
+        </div>
+      </div>
+    </div>
+  </li>
+
 </ol>
 
 * Papers in review or in revision:​
