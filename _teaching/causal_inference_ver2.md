@@ -28,7 +28,10 @@ share: false
         1-2. Counterfactual Framework and Causal Estimands
         <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-2.pdf" target="_blank">[Lecture Slide]</a>
       </li>
-      <li>1-3. Assumption and Identification</li>
+      <li>
+        1-3. Assumption and Identification
+        <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-3.pdf" target="_blank">[Lecture Slide]</a>
+      </li>
     </ul>
   </li>
   <li>
