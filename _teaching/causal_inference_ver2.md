@@ -12,7 +12,7 @@ share: false
 ---
 
 <div style="text-align: center; border-bottom: 1px solid #000; border-top: 1px solid #000; margin-top: 5px; margin-bottom: 5px; padding-top: 15px;">
-  <h1>STAT6061: Causal Inference</h1>
+  <h1>Causal Inference</h1>
 </div>
 
 <h2>Course Outline</h2>
@@ -53,8 +53,8 @@ share: false
     <strong>Part 4. Observational Studies with Unmeasured Confounding</strong>
     <ul>
       <li>4-1. Front-door criterion</li>
-      <li>4-1. Difference-in-Differences (DiD) method</li>
-      <li>4-2. Instrumental variable</li>
+      <li>4-2. Difference-in-Differences (DiD) method</li>
+      <li>4-3. Instrumental variable</li>
     </ul>
   </li>
   <li>
