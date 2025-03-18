@@ -41,7 +41,10 @@ share: false
         2-1. Assignment mechanisms
         <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-1.pdf" target="_blank">[Lecture Slide]</a>
       </li>
-      <li>2-2. Classical randomized experiments</li>
+      <li>
+        2-2. Classical randomized experiments
+        <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-2.pdf" target="_blank">[Lecture Slide]</a>
+      </li>
     </ul>
   </li>
   <li>
