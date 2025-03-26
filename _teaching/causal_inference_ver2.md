@@ -38,12 +38,16 @@ share: false
     <strong>Part 2. Randomized Experiments</strong>
     <ul>
       <li>
-        2-1. Assignment mechanisms
+        2-1. Treatment Assignment Mechanism and Experimental Design
         <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-1.pdf" target="_blank">[Lecture Slide]</a>
       </li>
       <li>
-        2-2. Classical randomized experiments
+        2-2. Completely Randomized Experiment
         <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-2.pdf" target="_blank">[Lecture Slide]</a>
+      </li>
+      <li>
+        2-3. Covariate Imbalance in Randomized Experiments
+        <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-3.pdf" target="_blank">[Lecture Slide]</a>
       </li>
     </ul>
   </li>
@@ -92,6 +96,17 @@ share: false
       <li>8-1. G-method for time-vary treatments and confounders</li>
       <li>8-2. Censoring and truncation</li>
       <li>8-3. Causal survival analysis and survival average causal effect</li>
+    </ul>
+  </li>
+</ol>
+
+<h2>Homework</h2>
+<ol style="list-style: none; padding-left: 0;">
+  <li>
+    <ul>
+      <li>
+      <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW1.pdf" target="_blank">[HW1]</a>
+      </li>
     </ul>
   </li>
 </ol>
