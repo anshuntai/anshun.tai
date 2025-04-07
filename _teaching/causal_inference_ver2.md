@@ -54,9 +54,15 @@ share: false
   <li>
     <strong>Part 3. Observational Studies with Measured Confounding</strong>
     <ul>
-      <li>3-1. Stratification via covariates</li>
-      <li>3-2. Standardization</li>
-      <li>3-3. Propensity-score methods</li>
+      <li>
+        3-1. Stratification and Standardization
+        <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1.pdf" target="_blank">[Lecture Slide]</a>
+      </li>
+      <li>
+        3-1*. Causal mediation analysis
+        <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1_s.pdf" target="_blank">[Lecture Slide]</a>
+      </li>
+      <li>3-2. Propensity-score methods</li>
     </ul>
   </li>
   <li>
