@@ -1,30 +1,55 @@
-/* Target the table inside the custom container */
+
+/* Ensure the table uses full width and no extra borders */
 .table-custom table {
   width: 100%;
-  margin-bottom: 1rem;
-  color: #212529;
-  border-collapse: collapse;
+  border-collapse: collapse; /* Collapses borders into a single line */
 }
 
+/* Style for both header and data cells */
 .table-custom table th,
 .table-custom table td {
   padding: 0.75rem;
-  vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  text-align: left;
+  border-top: none;                /* Remove top border */
+  border-bottom: 1px solid #ddd;   /* Light bottom border for each row */
 }
 
+/* Header row customization */
 .table-custom table thead th {
-  vertical-align: bottom;
-  border-bottom: 2px solid #dee2e6;
-  background-color: #e9ecef;
-  color: #212529;
+  border-bottom: 3px solid #444;   /* Dark and thicker bottom border for header cells */
 }
 
-/* Mimic striped and hover effects */
+
+/* Striped rows */
 .table-custom table tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, .05);
+  background-color: rgba(0, 0, 0, 0.1);  /* Adjust for lighter or darker stripes */
 }
 
+/* Hover effect */
 .table-custom table tbody tr:hover {
-  background-color: rgba(0, 0, 0, .075);
+  background-color: rgba(0, 0, 0, 0.075);  /* Change for a different hover color */
 }
+
+/* Ensure the table uses full width and no extra borders */
+.table-custom table {
+  width: 100%;
+  border-collapse: collapse; /* Collapses borders into a single line */
+}
+
+/* Style for both header and data cells */
+.table-custom table th,
+.table-custom table td {
+  padding: 0.75rem;
+  text-align: left;
+  border-top: none;                /* Remove top border */
+  border-bottom: 1px solid #ddd;   /* Light bottom border for each row */
+}
+
+/* Header row customization */
+.table-custom table thead th {
+  border-bottom: 3px solid #444;   /* Dark and thicker bottom border for header cells */
+}
+
+
+
+

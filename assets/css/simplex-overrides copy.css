@@ -1,0 +1,34 @@
+
+/* Customize table styling */
+.table-custom table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+  border-collapse: collapse;
+}
+
+/* Table cells */
+.table-custom table th,
+.table-custom table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Header styling */
+.table-custom table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #717982;
+  background-color: #a6b0ba; /* Change this for a different header color */
+  color: #212529;
+}
+
+/* Striped rows */
+.table-custom table tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.1);  /* Adjust for lighter or darker stripes */
+}
+
+/* Hover effect */
+.table-custom table tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.075);  /* Change for a different hover color */
+}
