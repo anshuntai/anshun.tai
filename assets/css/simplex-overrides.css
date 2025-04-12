@@ -30,26 +30,3 @@
   background-color: rgba(0, 0, 0, 0.075);  /* Change for a different hover color */
 }
 
-/* Ensure the table uses full width and no extra borders */
-.table-custom table {
-  width: 100%;
-  border-collapse: collapse; /* Collapses borders into a single line */
-}
-
-/* Style for both header and data cells */
-.table-custom table th,
-.table-custom table td {
-  padding: 0.75rem;
-  text-align: left;
-  border-top: none;                /* Remove top border */
-  border-bottom: 1px solid #ddd;   /* Light bottom border for each row */
-}
-
-/* Header row customization */
-.table-custom table thead th {
-  border-bottom: 3px solid #444;   /* Dark and thicker bottom border for header cells */
-}
-
-
-
-
