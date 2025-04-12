@@ -1,31 +1,31 @@
-
-/* Ensure the table uses full width and collapses borders */
-table.table {
-  width: 100%;
-  border-collapse: collapse;
+/* Target any table element inside .container with the .table class */
+.container table.table,
+.container table.table-striped,
+.container table.table-hover {
+  width: 100% !important;
+  border-collapse: collapse !important;
 }
 
-/* Style both header and data cells */
-table.table th,
-table.table td {
-  padding: 0.75rem;
-  text-align: left;
-  border-top: none;              /* Remove any top border */
-  border-bottom: 1px solid #ddd; /* Light bottom border for each row */
+/* Style table header and data cells */
+.container table.table th,
+.container table.table td {
+  padding: 0.75rem !important;
+  text-align: left !important;
+  border-top: none !important;             /* Remove any top border */
+  border-bottom: 1px solid #ddd !important;  /* Light bottom border for each row */
 }
 
 /* Header row customization */
-table.table thead th {
-  border-bottom: 3px solid #444; /* Darker and thicker bottom border for header */
+.container table.table thead th {
+  border-bottom: 3px solid #444 !important;  /* Darker, thicker bottom border for header */
 }
 
-/* Striped rows */
-table.table tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.1);  /* Adjust for lighter or darker stripes */
+/* Striped row effect */
+.container table.table tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05) !important;
 }
 
-/* Hover effect */
-table.table tbody tr:hover {
-  background-color: rgba(0, 0, 0, 0.075);  /* Change for a different hover color */
+/* Hover effect for rows */
+.container table.table tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.075) !important;
 }
-
