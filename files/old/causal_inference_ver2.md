@@ -3,7 +3,7 @@ layout: course
 title: "STAT6061 Causal Inference (因果推論)"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/causal_inference
+#permalink: /teaching/causal_inference
 venue: "NCKU, Dept. STAT, STAT6061"
 years: "2025"
 location: "Tainan, Taiwan"
