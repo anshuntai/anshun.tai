@@ -9,8 +9,41 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <!-- Link to your custom Simplex overrides -->
-    <link rel="stylesheet" href="{{ '/assets/css/simplex-overrides.css' | relative_url }}">
+    <!-- Inline CSS for table styling -->
+    <style>
+      /* Table style: full width and collapsed borders */
+      .container table.table,
+      .container table.table-striped,
+      .container table.table-hover {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+      /* Style table header and cell padding and borders */
+      .container table.table th,
+      .container table.table td {
+        padding: 0.75rem;
+        text-align: left;
+        /* Remove any top border and add light bottom border for each row */
+        border-top: none;
+        border-bottom: 1px solid #ddd;
+      }
+
+      /* Header row: thicker and darker bottom border */
+      .container table.table thead th {
+        border-bottom: 3px solid #444;
+      }
+
+      /* Striped row effect: odd rows get a subtle background */
+      .container table.table tbody tr:nth-of-type(odd) {
+        background-color: rgba(0, 0, 0, 0.05);
+      }
+
+      /* Hover effect: change row background color on hover */
+      .container table.table tbody tr:hover {
+        background-color: rgba(0, 0, 0, 0.075);
+      }
+    </style>
 
     <style>
       /* Fluid container */
@@ -27,7 +60,7 @@ layout: compress
           padding-right: 30px;  /* Increase right padding for mobile */
         }
       }
-    </style>    
+    </style>
   </head>
   <body>
 
@@ -50,3 +83,4 @@ layout: compress
 
   </body>
 </html>
+
