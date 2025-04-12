@@ -17,7 +17,6 @@ share: false
 
 ## Course Schedule
 
-<div class="table-responsive table-custom" markdown=1>
 | Week | Date | Part | Topics | Slides |
 |------|------------|------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|
 | 1    | 2025-02-18 | Part 1. Introduction | 1-1. Introduction to Causal Inference | [Part 1-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-1.pdf) |
@@ -43,7 +42,7 @@ share: false
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-1. G-method for time-vary treatments and confounders | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-2. Censoring and truncation | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-3. Causal survival analysis and survival average causal effect | *(Coming soon)* |
-</div>
+{: .table .table-striped .table-hover }
 
 <h2>Homework</h2>
 <ol style="list-style: none; padding-left: 0;">
