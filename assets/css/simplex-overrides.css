@@ -1,32 +1,31 @@
 
-/* Ensure the table uses full width and no extra borders */
-.table-custom table {
+/* Ensure the table uses full width and collapses borders */
+table.table {
   width: 100%;
-  border-collapse: collapse; /* Collapses borders into a single line */
+  border-collapse: collapse;
 }
 
-/* Style for both header and data cells */
-.table-custom table th,
-.table-custom table td {
+/* Style both header and data cells */
+table.table th,
+table.table td {
   padding: 0.75rem;
   text-align: left;
-  border-top: none;                /* Remove top border */
-  border-bottom: 1px solid #ddd;   /* Light bottom border for each row */
+  border-top: none;              /* Remove any top border */
+  border-bottom: 1px solid #ddd; /* Light bottom border for each row */
 }
 
 /* Header row customization */
-.table-custom table thead th {
-  border-bottom: 3px solid #444;   /* Dark and thicker bottom border for header cells */
+table.table thead th {
+  border-bottom: 3px solid #444; /* Darker and thicker bottom border for header */
 }
 
-
 /* Striped rows */
-.table-custom table tbody tr:nth-of-type(odd) {
+table.table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.1);  /* Adjust for lighter or darker stripes */
 }
 
 /* Hover effect */
-.table-custom table tbody tr:hover {
+table.table tbody tr:hover {
   background-color: rgba(0, 0, 0, 0.075);  /* Change for a different hover color */
 }
 
