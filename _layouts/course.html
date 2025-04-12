@@ -11,39 +11,30 @@ layout: compress
     {% include head/custom.html %}
     <!-- Inline CSS for table styling -->
     <style>
-      /* Table style: full width and collapsed borders */
-      .container table.table,
-      .container table.table-striped,
-      .container table.table-hover {
+      /* Ensure the table fills its container and collapses borders */
+      .container table.table {
         width: 100%;
         border-collapse: collapse;
+        border: none;  /* Remove any outer table borders */
       }
-
-      /* Style table header and cell padding and borders */
+    
+      /* Remove all borders from cells and add only a bottom border */
       .container table.table th,
       .container table.table td {
-        padding: 0.75rem;
+        padding: 0.05rem;
         text-align: left;
-        /* Remove any top border and add light bottom border for each row */
-        border-top: none;
-        border-bottom: 1px solid #ddd;
+        border: none;  /* Clear any existing borders */
+        border-bottom: 1px solid #bfbfbfdd;  /* Only bottom border for each cell */
       }
-
-      /* Header row: thicker and darker bottom border */
+    
+      /* Customize header: no other borders plus a thicker, darker bottom border */
       .container table.table thead th {
-        border-bottom: 3px solid #444;
-      }
-
-      /* Striped row effect: odd rows get a subtle background */
-      .container table.table tbody tr:nth-of-type(odd) {
-        background-color: rgba(0, 0, 0, 0.05);
-      }
-
-      /* Hover effect: change row background color on hover */
-      .container table.table tbody tr:hover {
-        background-color: rgba(0, 0, 0, 0.075);
+        border: none;
+        border-bottom: 1px solid #000000;
+        border-top: 1px solid #000000;
       }
     </style>
+    
 
     <style>
       /* Fluid container */

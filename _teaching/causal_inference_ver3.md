@@ -42,7 +42,7 @@ share: false
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-1. G-method for time-vary treatments and confounders | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-2. Censoring and truncation | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-3. Causal survival analysis and survival average causal effect | *(Coming soon)* |
-{: .table .table-striped .table-hover }
+{: .table}
 
 <h2>Homework</h2>
 <ol style="list-style: none; padding-left: 0;">
