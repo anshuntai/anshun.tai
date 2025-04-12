@@ -236,7 +236,7 @@ Published or In press​:
           <a href="https://doi.org/10.1002/sim.9079" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
         </div>
         <div class="jcr-ranking">
-          <span>Q2, IF=2.0, Rank=34/125, Category: STATISTICS &amp; PROBABILITY</span>
+          <span>Q1, IF=2.497, Rank=26/125, Category: STATISTICS &amp; PROBABILITY</span>
         </div>
       </div>
     </div>
