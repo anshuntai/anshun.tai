@@ -1,31 +1,28 @@
-/* Target any table element inside .container with the .table class */
-.container table.table,
-.container table.table-striped,
-.container table.table-hover {
+html body .container table.table,
+html body .container table.table-striped,
+html body .container table.table-hover {
   width: 100% !important;
   border-collapse: collapse !important;
 }
 
-/* Style table header and data cells */
-.container table.table th,
-.container table.table td {
+html body .container table.table th,
+html body .container table.table td {
   padding: 0.75rem !important;
   text-align: left !important;
   border-top: none !important;             /* Remove any top border */
   border-bottom: 1px solid #ddd !important;  /* Light bottom border for each row */
 }
 
-/* Header row customization */
-.container table.table thead th {
+html body .container table.table thead th {
   border-bottom: 3px solid #444 !important;  /* Darker, thicker bottom border for header */
 }
 
-/* Striped row effect */
-.container table.table tbody tr:nth-of-type(odd) {
+/* Striped rows */
+html body .container table.table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05) !important;
 }
 
-/* Hover effect for rows */
-.container table.table tbody tr:hover {
+/* Hover effect */
+html body .container table.table tbody tr:hover {
   background-color: rgba(0, 0, 0, 0.075) !important;
 }
