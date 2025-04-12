@@ -9,13 +9,23 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- Link to your custom Simplex overrides -->
+    <link rel="stylesheet" href="{{ '/assets/css/simplex-overrides.css' | relative_url }}">
+
     <style>
       /* Fluid container */
       .container {
         width: 80%;
         max-width: 100%;
         margin: 0 auto;
-        padding: 0 20px; /* Adjust padding if needed */
+        padding: 0 20px; /* default left and right padding */
+      }
+
+      /* For smaller screens (e.g., phones), add extra space on the right */
+      @media (max-width: 576px) {
+        .container {
+          padding-right: 30px;  /* Increase right padding for mobile */
+        }
       }
     </style>    
   </head>

@@ -43,9 +43,18 @@ share: false
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-2. Censoring and truncation | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-3. Causal survival analysis and survival average causal effect | *(Coming soon)* |
 
-## Homework
-
-| Assignment | PDF |
-|------------|------|
-| HW1        | [HW1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW1.pdf) |
-| HW2        | [HW2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW2.pdf) |
+<h2>Homework</h2>
+<ol style="list-style: none; padding-left: 0;">
+  <li>
+    <ul>
+      <li>
+      <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW1.pdf" target="_blank">[HW1]</a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+      <a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW2.pdf" target="_blank">[HW2]</a>
+      </li>
+    </ul>
+  </li>
+</ol>

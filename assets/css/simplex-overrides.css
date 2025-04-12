@@ -1,0 +1,35 @@
+/* Simplex-inspired table styling */
+
+/* Base table styling */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    font-size: 0.875rem;
+    color: #212529;
+  }
+  
+  /* Padding and borders for table cells */
+  table th,
+  table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+  }
+  
+  /* Styling the header row */
+  table thead th {
+    background-color: #e9ecef; /* Light gray header background */
+    color: #212529;
+    border-bottom: 2px solid #dee2e6;
+  }
+  
+  /* Striped rows and hover effect */
+  table tbody tr:nth-child(odd) {
+    background-color: #f8f9fa;
+  }
+  
+  table tbody tr:hover {
+    background-color: #f1f3f5;
+  }
+  
