@@ -17,7 +17,7 @@ share: false
 
 ## Course Schedule
 
-<div class="table-responsive table-custom">
+<div class="table-responsive table-custom" markdown="1">
 | Week | Date | Part | Topics | Slides |
 |------|------------|------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|
 | 1    | 2025-02-18 | Part 1. Introduction | 1-1. Introduction to Causal Inference | [Part 1-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-1.pdf) |
