@@ -25,10 +25,10 @@ share: false
 | 4    | 2025-03-11 | Part 2. Randomized Experiments | 2-1. Treatment Assignment & Experimental Design | [Part 2-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-1.pdf) |
 | 5    | 2025-03-18 | Part 2. Randomized Experiments | 2-2. Completely Randomized Experiment | [Part 2-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-2.pdf) |
 | 6    | 2025-03-25 | Part 2. Randomized Experiments | 2-3. Covariate Imbalance in Randomized Experiments | [Part 2-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-3.pdf) |
-| 7    | 2025-04-01 | Part 3. Observational Studies with Measured Confounding | 3-1. Stratification and Standardization | [Part 3-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1.pdf) |
-| 8    | 2025-04-01 | Part 3. Observational Studies with Measured Confounding | 3-1*. Causal Mediation Analysis (Intro) | [Part 3-1*](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1_s.pdf) |
-| 9    | 2025-04-15 | Part 3. Observational Studies with Measured Confounding | 3-2. Propensity-Score Methods | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 4. Observational Studies with Unmeasured Confounding | 4-1. Front-door Criterion | *(Coming soon)* |
+| 7    | 2025-04-01 | Part 3. Observational Studies with Measured Confounding | 3-1. Stratification and Standardization | [Part 3-1 (update)](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1(update).pdf) |
+| 7    | 2025-04-01 | Part 3. Observational Studies with Measured Confounding | 3-1*. Causal Mediation Analysis (Intro) | [Part 3-1*](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1_s.pdf) |
+| 9    | 2025-04-15 | Part 3. Observational Studies with Measured Confounding | 3-2. Propensity-Score Methods | [Part 3-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-2.pdf) |
+| 10 | 2025-04-22 | Part 4. Observational Studies with Unmeasured Confounding | 4-1. Front-door Criterion | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 4. Observational Studies with Unmeasured Confounding | 4-2. Difference-in-Differences (DiD) Method | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 4. Observational Studies with Unmeasured Confounding | 4-3. Instrumental Variable | *(Coming soon)* |
 | *(Coming soon)* | *(Coming soon)* | Part 5. Sensitivity Analysis | 5-1. Evaluating sensitivity to exchangeability assumption violations | *(Coming soon)* |
