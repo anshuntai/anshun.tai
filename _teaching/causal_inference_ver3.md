@@ -17,31 +17,40 @@ share: false
 
 ## Course Schedule
 
-| Week | Date | Part | Topics | Slides |
-|------|------------|------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|
-| 1    | 2025-02-18 | Part 1. Introduction | 1-1. Introduction to Causal Inference | [Part 1-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-1.pdf) |
-| 2    | 2025-02-25 | Part 1. Introduction | 1-2. Counterfactual Framework and Causal Estimands | [Part 1-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-2.pdf) |
-| 3    | 2025-03-04 | Part 1. Introduction | 1-3. Assumption and Identification | [Part 1-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-3.pdf) |
-| 4    | 2025-03-11 | Part 2. Randomized Experiments | 2-1. Treatment Assignment & Experimental Design | [Part 2-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-1.pdf) |
-| 5    | 2025-03-18 | Part 2. Randomized Experiments | 2-2. Completely Randomized Experiment | [Part 2-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-2.pdf) |
-| 6    | 2025-03-25 | Part 2. Randomized Experiments | 2-3. Covariate Imbalance in Randomized Experiments | [Part 2-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-3.pdf) |
-| 7    | 2025-04-01 | Part 3. Observational Studies with Measured Confounding | 3-1. Stratification and Standardization | [Part 3-1 (update)](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1(update).pdf) |
-| 7    | 2025-04-01 | Part 3. Observational Studies with Measured Confounding | 3-1*. Causal Mediation Analysis (Intro) | [Part 3-1*](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1_s.pdf) |
-| 9    | 2025-04-15 | Part 3. Observational Studies with Measured Confounding | 3-2. Propensity-Score Methods | [Part 3-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-2.pdf) |
-| 10 | 2025-04-22 | Part 4. Observational Studies with Unmeasured Confounding | 4-1. Front-door Criterion | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 4. Observational Studies with Unmeasured Confounding | 4-2. Difference-in-Differences (DiD) Method | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 4. Observational Studies with Unmeasured Confounding | 4-3. Instrumental Variable | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 5. Sensitivity Analysis | 5-1. Evaluating sensitivity to exchangeability assumption violations | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 5. Sensitivity Analysis | 5-2. Evaluating sensitivity to positivity assumption violations | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 6. Causal Directed Acyclic Graphs (DAGs) | 6-1. DAGs for selection bias and confounding bias | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 6. Causal Directed Acyclic Graphs (DAGs) | 6-2. DAGs for measurement bias | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 6. Causal Directed Acyclic Graphs (DAGs) | 6-3. DAGs for interaction and effect modification | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 7. Causal Mediation Analysis | 7-1. Product method and difference method | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 7. Causal Mediation Analysis | 7-2. Mediational G-formula | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 7. Causal Mediation Analysis | 7-3. Estimation for causal mediation analysis | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-1. G-method for time-vary treatments and confounders | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-2. Censoring and truncation | *(Coming soon)* |
-| *(Coming soon)* | *(Coming soon)* | Part 8. Causal Inference for Longitudinal Data | 8-3. Causal survival analysis and survival average causal effect | *(Coming soon)* |
+| Week | Date | Topics | Slides |
+|------|------------|-------------------------------------------------------------------------|---------------------------------------------|
+| Part 1. Introduction |
+| 1    | 2025-02-18 | 1-1. Introduction to Causal Inference | [Part 1-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-1.pdf) |
+| 2    | 2025-02-25 | 1-2. Counterfactual Framework and Causal Estimands | [Part 1-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-2.pdf) |
+| 3    | 2025-03-04 | 1-3. Assumption and Identification | [Part 1-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_1-3.pdf) |
+| Part 2. Randomized Experiments |
+| 4    | 2025-03-11 | 2-1. Treatment Assignment & Experimental Design | [Part 2-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-1.pdf) |
+| 5    | 2025-03-18 | 2-2. Completely Randomized Experiment | [Part 2-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-2.pdf) |
+| 6    | 2025-03-25 | 2-3. Covariate Imbalance in Randomized Experiments | [Part 2-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_2-3.pdf) |
+| Part 3. Observational Studies with Measured Confounding |
+| 7    | 2025-04-01 | 3-1. Stratification and Standardization | [Part 3-1 (update)](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1(update).pdf) |
+| 7    | 2025-04-01 | 3-1*. Causal Mediation Analysis (Intro) | [Part 3-1*](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1_s.pdf) |
+| 9 & 10 | 2025-04-15 | 3-2. Weighting and Matching | [Part 3-2 (0422update)](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-2(0422update).pdf) |
+| 10    | 2025-04-22 | 3-3. Propensity-Score Methods | [Part 3-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-3.pdf) |
+| Part 4. Observational Studies with Unmeasured Confounding | 
+| 10 | 2025-04-22 | 4-1. Front-door Criterion | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 4-2. Difference-in-Differences (DiD) Method | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 4-3. Instrumental Variable | *(Coming soon)* |
+| Part 5. Sensitivity Analysis |
+| *(Coming soon)* | *(Coming soon)* | 5-1. Evaluating sensitivity to exchangeability assumption violations | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 5-2. Evaluating sensitivity to positivity assumption violations | *(Coming soon)* |
+| Part 6. Causal Directed Acyclic Graphs (DAGs) |
+| *(Coming soon)* | *(Coming soon)* | 6-1. DAGs for selection bias and confounding bias | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 6-2. DAGs for measurement bias | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 6-3. DAGs for interaction and effect modification | *(Coming soon)* |
+| Part 7. Causal Mediation Analysis |
+| *(Coming soon)* | *(Coming soon)* | 7-1. Product method and difference method | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 7-2. Mediational G-formula | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 7-3. Estimation for causal mediation analysis | *(Coming soon)* |
+| Part 8. Causal Inference for Longitudinal Data |
+| *(Coming soon)* | *(Coming soon)* | 8-1. G-method for time-vary treatments and confounders | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 8-2. Censoring and truncation | *(Coming soon)* |
+| *(Coming soon)* | *(Coming soon)* | 8-3. Causal survival analysis and survival average causal effect | *(Coming soon)* |
 {: .table}
 
 <h2>Homework</h2>

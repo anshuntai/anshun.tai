@@ -33,9 +33,15 @@ layout: compress
         border-bottom: 1px solid #000000;
         border-top: 1px solid #000000;
       }
+
+      /* Center and dark-background any row whose single <td> spans the table */
+      .container table.table tr td:only-child {
+        background-color: #333333;
+        color: #ffffff;
+        text-align: center;
+      }
     </style>
     
-
     <style>
       /* Fluid container */
       .container {
@@ -74,4 +80,3 @@ layout: compress
 
   </body>
 </html>
-
