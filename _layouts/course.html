@@ -34,16 +34,45 @@ layout: compress
         border-top: 1px solid #000000;
       }
 
-      /* Our single-cell section headers */
-      .container table.table td.section-header {
-        background-color: #c0c0c0;
-        color:            #000000;
-        text-align:       center;
-        font-weight:      bold;
-        border-bottom: 1px solid #000000;
-        border-top: 1px solid #000000;
+      /* Section-header rows: first cell non-empty, next three empty */
+      .container table.table tr:has(
+        td:nth-child(1):not(:empty)
+      ):has(
+        td:nth-child(2):empty
+      ):has(
+        td:nth-child(3):empty
+      ):has(
+        td:nth-child(4):empty
+      ) {
+        /* Hide the empty cells */
+      }
+      .container table.table tr:has(
+        td:nth-child(1):not(:empty)
+      ):has(
+        td:nth-child(2):empty
+      ):has(
+        td:nth-child(3):empty
+      ):has(
+        td:nth-child(4):empty
+      ) > td:nth-child(n+2) {
+        display: none;
       }
 
+      /* Style the only visible cell to span visually and center */
+      .container table.table tr:has(
+        td:nth-child(1):not(:empty)
+      ):has(
+        td:nth-child(2):empty
+      ):has(
+        td:nth-child(3):empty
+      ):has(
+        td:nth-child(4):empty
+      ) > td:first-child {
+        background-color: #b6b6b6;
+        color: #000000;
+        text-align: center;
+        width: 100%;
+      }
       
     </style>
     
