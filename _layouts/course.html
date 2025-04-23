@@ -34,17 +34,15 @@ layout: compress
         border-top: 1px solid #000000;
       }
       
-      /* style our 1-cell Part-headers (centered, dark) */
-      .container table.table td {
-        /* nothing special for normal cells */
-      }
-      .container table.table tr > td:first-child:only-child {
-        background-color: #333;
-        color: #fff;
+      /* Bold + center any row where the first column is filled but rest are empty */
+      .container table.table tr > td:first-child:only-child,
+      .container table.table tr > td:first-child:not(:empty) + td:empty + td:empty + td:empty {
         text-align: center;
         font-weight: bold;
+        background-color: #f0f0f0;
+        color: #333;
       }
-      
+
     </style>
     
     <style>
