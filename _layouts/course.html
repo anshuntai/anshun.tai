@@ -27,17 +27,17 @@ layout: compress
         border-bottom: 1px solid #bfbfbfdd;  /* Only bottom border for each cell */
       }
     
-      /* Customize header: no other borders plus a thicker, darker bottom border */
+      /* Customize header: no other borders plus a thicker, darker top/bottom border */
       .container table.table thead th {
         border: none;
         border-bottom: 1px solid #000000;
         border-top: 1px solid #000000;
       }
 
-      /* Center and dark-background any row whose single <td> spans the table */
-      .container table.table tr td:only-child {
-        background-color: #333333;
-        color: #ffffff;
+      /* Part/section header rows (no links) get centered + dark background */
+      .container table.table tbody tr:not(:has(a)) td {
+        background-color: #333;
+        color: #fff;
         text-align: center;
       }
     </style>
