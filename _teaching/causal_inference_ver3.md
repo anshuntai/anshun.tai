@@ -60,6 +60,7 @@ share: false
     <ul>
       <li><a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW1.pdf" target="_blank">[HW1]</a></li>
       <li><a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW2.pdf" target="_blank">[HW2]</a></li>
+      <li><a href="https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/HW/Causal_inference_HW3.pdf" target="_blank">[HW3]</a></li>
     </ul>
   </li>
 </ol>
