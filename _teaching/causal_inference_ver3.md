@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "STAT6061 Causal Inference (因果推論)"
+title: "STAT6061/STAT5008 Causal Inference (因果推論)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/causal_inference
@@ -32,8 +32,9 @@ share: false
 | 2025-04-01 | 3-1*. Causal Mediation Analysis (Intro) | [Part 3-1*](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-1_s.pdf) |
 | 2025-04-15 | 3-2. Weighting and Matching | [Part 3-2 (0422update)](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-2(0422update).pdf) |
 | 2025-04-22 | 3-3. Propensity-Score Methods | [Part 3-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-3.pdf) |
+| 2025-05-06 | 3-4. Doubly Robust Methods | [Part 3-4](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-4.pdf) |
 | Part 4. Observational Studies with Unmeasured Confounding |||
-| *(Coming soon)* | 4-1. Front-door Criterion | *(Coming soon)* |
+| 2025-05-06 | 4-1. Front-door Criterion | [Part 4-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-1.pdf) |
 | *(Coming soon)* | 4-2. Difference-in-Differences (DiD) Method | *(Coming soon)* |
 | *(Coming soon)* | 4-3. Instrumental Variable | *(Coming soon)* |
 | Part 5. Sensitivity Analysis |||
