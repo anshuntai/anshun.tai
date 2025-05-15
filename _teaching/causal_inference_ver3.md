@@ -35,8 +35,8 @@ share: false
 | 2025-05-06 | 3-4. Doubly Robust Methods | [Part 3-4](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_3-4.pdf) |
 | Part 4. Observational Studies with Unmeasured Confounding |||
 | 2025-05-06 | 4-1. Front-door Criterion | [Part 4-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-1.pdf) |
-| *(Coming soon)* | 4-2. Difference-in-Differences (DiD) Method | *(Coming soon)* |
-| *(Coming soon)* | 4-3. Instrumental Variable | *(Coming soon)* |
+| 2025-05-06 & 2025-05-13 | 4-2. Difference-in-Differences (DiD) Method | [Part 4-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-2.pdf) |
+| 2025-05-13 | 4-3. Instrumental Variable | [Part 4-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-3.pdf) |
 | Part 5. Sensitivity Analysis |||
 | *(Coming soon)* | 5-1. Evaluating sensitivity to exchangeability assumption violations | *(Coming soon)* |
 | *(Coming soon)* | 5-2. Evaluating sensitivity to positivity assumption violations | *(Coming soon)* |
