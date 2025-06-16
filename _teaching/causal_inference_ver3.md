@@ -47,7 +47,6 @@ share: false
 | 2025-05-27 | 8. Causal Inference in Longitudinal and Survival Data | [Part 8](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_8.pdf) |
 | Part 9. Multiple mediation analysis |||
 | 2025-06-03 | 9. Multiple mediation analysis | [Part 9](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_9.pdf) |
-
 {: .table}
 
 <h2>Homework</h2>
