@@ -36,22 +36,18 @@ share: false
 | Part 4. Observational Studies with Unmeasured Confounding |||
 | 2025-05-06 | 4-1. Front-door Criterion | [Part 4-1](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-1.pdf) |
 | 2025-05-06 & 2025-05-13 | 4-2. Difference-in-Differences (DiD) Method | [Part 4-2](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-2.pdf) |
-| 2025-05-13 | 4-3. Instrumental Variable | [Part 4-3](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-3.pdf) |
+| 2025-05-13 | 4-3. Instrumental Variable | [Part 4-3 (0520update)](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_4-3(0520update).pdf) |
 | Part 5. Sensitivity Analysis |||
-| *(Coming soon)* | 5-1. Evaluating sensitivity to exchangeability assumption violations | *(Coming soon)* |
-| *(Coming soon)* | 5-2. Evaluating sensitivity to positivity assumption violations | *(Coming soon)* |
+| 2025-05-20 | 5. Sensitivity Analysis | [Part 5](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_5.pdf) |
 | Part 6. Causal Directed Acyclic Graphs (DAGs) |||
 | *(Coming soon)* | 6-1. DAGs for selection bias and confounding bias | *(Coming soon)* |
 | *(Coming soon)* | 6-2. DAGs for measurement bias | *(Coming soon)* |
 | *(Coming soon)* | 6-3. DAGs for interaction and effect modification | *(Coming soon)* |
-| Part 7. Causal Mediation Analysis |||
-| *(Coming soon)* | 7-1. Product method and difference method | *(Coming soon)* |
-| *(Coming soon)* | 7-2. Mediational G-formula | *(Coming soon)* |
-| *(Coming soon)* | 7-3. Estimation for causal mediation analysis | *(Coming soon)* |
 | Part 8. Causal Inference for Longitudinal Data |||
-| *(Coming soon)* | 8-1. G-method for time-vary treatments and confounders | *(Coming soon)* |
-| *(Coming soon)* | 8-2. Censoring and truncation | *(Coming soon)* |
-| *(Coming soon)* | 8-3. Causal survival analysis and survival average causal effect | *(Coming soon)* |
+| 2025-05-27 | 8. Causal Inference in Longitudinal and Survival Data | [Part 8](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_8.pdf) |
+| Part 9. Multiple mediation analysis |||
+| 2025-06-03 | 9. Multiple mediation analysis | [Part 9](https://anshuntai.github.io/anshun.tai/files/causal_inference_slides/Part_9.pdf) |
+
 {: .table}
 
 <h2>Homework</h2>
