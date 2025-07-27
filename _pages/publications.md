@@ -31,7 +31,7 @@ Published or In press​:
       </div>
       <div class="paper-footer">
         <div class="btn-group">
-          <a href="https://doi.org/10.1002/sim.10118" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper Link</a>
+          <a href="https://doi.org/10.1002/sim.10118" class="btn btn-default btn-xs" role="button" title="Paper Link">Paper</a>
         </div>
         <div class="jcr-ranking">
           <span>Q1, IF=1.8, Rank=32/168, Category STATISTICS &amp; PROBABILITY</span>
