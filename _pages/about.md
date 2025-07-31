@@ -25,9 +25,9 @@ I received my Ph.D. in Statistics at National Tsing Hua University in 2019. My c
 
 I would welcome any email for an academic discussion.
 ### Contact Information:
- - **Email:** ashtai[at]gs.ncku.edu.tw / ashtai[at]stat.nthu.edu.tw
- - **Tel:** +886 6-2757575#53626
- - **Office:** 4F Room 62445, Department of Statistics, No.1, University Road, Tainan 701, Taiwan
+ - **Email:** ashtai[at]stat.nthu.edu.tw
+ - **Tel:** +886 3-5715131#33188
+ - **Office:** Room 825, Institute of Statistics and Data Science, No.101, Section 2, Kuang-Fu Road, Hsinchu, Taiwan 30013, R.O.C.
 
 <!-- News Section -->
 ## NEWS
