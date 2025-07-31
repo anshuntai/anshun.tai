@@ -24,11 +24,11 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "PI: An-Shun Tai (戴安順)"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at Department of Statistics, NCKU"
+  bio              : "Assistant Professor at Institute of Statistics and Data Science, NTHU."
   location         : "Tainan, Taiwan"
-  employer         : "National Cheng Kung Univ."
+  employer         : "National Tsing Hua Univ."
   uri              : # URL
-  email            : "ashtai@gs.ncku.edu.tw"
+  email            : "ashtai@stat.nthu.edu.tw"
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
