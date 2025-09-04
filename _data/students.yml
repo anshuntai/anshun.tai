@@ -28,7 +28,7 @@ graduate:
 
 undergraduate:
   - name: BO-HAN YAO (姚博瀚)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
     department: Department of Statistics, NCKU
     year: 4
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
@@ -101,7 +101,7 @@ research_assistants:
     email: h24116099@gs.ncku.edu.tw
 
   - name: BO-HAN YAO (姚博瀚)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
     department: Department of Statistics
     year: 4
     research_interests: Epigenetic Clock, Causal Mediation Analysis, Aging, Causal Discovery, Causal ML
