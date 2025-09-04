@@ -54,7 +54,7 @@ ter 12.6 + Supplement) | Coming |
 <h2>Syllabus</h2>
 <ul style="list-style: none; padding-left: 0; margin: 0;">
   <li>
-    <a href="./files/Applied_Multivariate_Analysis_Syllabus.pdf">Syllabus PDF</a>
+    <a href="https://anshuntai.github.io/anshun.tai/files/Applied_Multivariate_Analysis_Syllabus.pdf">Syllabus PDF</a>
   </li>
 </ul>
 
