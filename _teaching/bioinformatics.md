@@ -6,6 +6,7 @@ permalink: /teaching/bioinformatics
 venue: "NCKU, Dept. STAT, Institute of Data Science"
 years: "2023, 2024"
 location: "Tainan, Taiwan"
+rank: 3
 excerpt: ""
 share: false
 ---

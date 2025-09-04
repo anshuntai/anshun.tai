@@ -6,6 +6,7 @@ permalink: /teaching/calculus12
 venue: "NCKU, Dept. STAT"
 years: "2022, 2023, 2024, 2025"
 location: "Tainan, Taiwan"
+rank: 4
 excerpt: ""
 share: false
 ---

@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign sorted_teaching = site.teaching | sort: "rank" %}
+{% for post in sorted_teaching %}
   {% include archive-single.html %}
 {% endfor %}
+
+{%
+  comment
+  To specify the ranking, add a `rank` field in the front matter of each teaching page/post, e.g.:
+  ---
+  title: "Introduction to Statistics"
+  rank: 1
+  ---
+%}

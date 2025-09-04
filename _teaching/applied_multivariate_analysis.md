@@ -7,6 +7,7 @@ permalink: /teaching/applied_multivariate_analysis
 venue: "NTHU, Institute of Statistics and Data Science,"
 years: "2025"
 location: "Taiwan"
+rank: 1
 excerpt: ""
 share: false
 ---

@@ -7,6 +7,7 @@ permalink: /teaching/causal_inference
 venue: "NCKU, Dept. STAT, STAT6061"
 years: "2025"
 location: "Tainan, Taiwan"
+rank: 2
 excerpt: ""
 share: false
 ---
