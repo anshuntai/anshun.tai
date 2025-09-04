@@ -26,8 +26,7 @@ share: false
 | Part II. Dimension Reduction |||
 | Coming | Lecture 3. Principal Component Analysis (PCA) (Chapter 8) | Coming |
 | Coming | Lecture 4. Factor Analysis (Chapter 9) | Coming |
-| Coming | Lecture 5. Multidimensional Scaling (MDS) and Nonlinear Embedding (Chap-
-ter 12.6 + Supplement) | Coming |
+| Coming | Lecture 5. Multidimensional Scaling (MDS) and Nonlinear Embedding (Chapter 12.6 + Supplement) | Coming |
 | Part III. Classification and Clustering |||
 | Coming | Lecture 6. Discriminant Analysis (Chapter 11) | Coming |
 | Coming | Lecture 7. Classification Extensions (Chapter 11 + Supplement) | Coming |
@@ -36,7 +35,7 @@ ter 12.6 + Supplement) | Coming |
 | Coming | Lecture 9. Multivariate Regression (Chapters 6 and 7) | Coming |
 | Coming | Lecture 10. Canonical Correlation Analysis (CCA) (Chapter 10) | Coming |
 | Coming | Lecture 11. Correspondence Analysis (Chapter 12.7 + Supplement) | Coming |
-| Part V. Advanced and Modern Topics |||s
+| Part V. Advanced and Modern Topics |||
 | Coming | Lecture 12. Structural Equation Models (SEM) (Supplement) | Coming |
 | Coming | Lecture 13. Partial Least Squares (PLS) (Supplement) | Coming |
 {: .table}
