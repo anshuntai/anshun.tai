@@ -42,7 +42,7 @@ ter 12.6 + Supplement) | Coming |
 {: .table}
 
 <h2>TA</h2>
-<ul style="list-style: disc; padding-left: 0; margin: 0;">
+<ul style="list-style: disc; padding-left: 1.5em; margin: 0;">
   <li>
     <strong>卓辰樺</strong> — Email:
     <a href="mailto:hichcho@gapp.nthu.edu.tw">hichcho@gapp.nthu.edu.tw</a>
@@ -53,14 +53,14 @@ ter 12.6 + Supplement) | Coming |
 </ul>
 
 <h2>Syllabus</h2>
-<ul style="list-style: disc; padding-left: 0; margin: 0;">
+<ul style="list-style: disc; padding-left: 1.5em; margin: 0;">
   <li>
     <a href="https://anshuntai.github.io/anshun.tai/files/Applied_Multivariate_Analysis_Syllabus.pdf">Syllabus PDF</a>
   </li>
 </ul>
 
 <h2>Homework</h2>
-<ol style="list-style: none; padding-left: 0;">
+<ol style="list-style: none; padding-left: 1.5em;">
   <li>
   Coming
   </li>
@@ -73,14 +73,14 @@ ter 12.6 + Supplement) | Coming |
 </ul>
 
 <h2>Textbook</h2>
-<ul style="list-style: disc; padding-left: 0; margin: 0;">
+<ul style="list-style: disc; padding-left: 1.5em; margin: 0;">
   <li>
     Johnson, R. A., & Wichern, D. W. (2018). <em>Applied Multivariate Statistical Analysis</em> (6th ed.). Pearson.
   </li>
 </ul>
 
 <h2>Reference Books</h2>
-<ul style="list-style: disc; padding-left: 0; margin: 0;">
+<ul style="list-style: disc; padding-left: 1.5em; margin: 0;">
   <li>
     Rencher, A. C., & Christensen, W. F. (2012). <em>Methods of Multivariate Analysis</em> (3rd ed.). Wiley.
   </li>
