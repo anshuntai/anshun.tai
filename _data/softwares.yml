@@ -1,13 +1,13 @@
 - title: "FMI: On the conventional definition of path-specific effects - fully mediated interaction with multiple ordered mediators"
-  paper_reference: "Tai, An-Shuna,b; Liao, Le-Hsuanb; Lin, Sheng-Hsuanb. On the Conventional Definition of Path-specific Effects: Fully Mediated Interaction With Multiple Ordered Mediators. Epidemiology 33(6):p 817-827, November 2022. | DOI: 10.1097/EDE.0000000000001520"
+  paper_reference: "An-Shun Tai, Le-Hsuan Liao, and Sheng-Hsuan Lin* (2022). On the conventional definition of path-specific effects - fully mediated interaction with multiple ordered mediators. Epidemiology. 33(6): p 817-827. DOI: 10.1097/EDE.0000000000001520."
   github_url: "https://github.com/AshTai/FMI"
 
 - title: "PEACH: Detection of cell separation–induced gene expression through a penalized deconvolution approach"
-  paper_reference: "Tai, AS., Wang, CC. & Hsieh, WP. Detection of Cell Separation-Induced Gene Expression Through a Penalized Deconvolution Approach. Stat Biosci 15, 692–718 (2023). https://doi.org/10.1007/s12561-022-09344-8"
+  paper_reference: "An-Shun Tai, Chun-Chao Wang, and Wen-Ping Hsieh* (2022). Detection of cell separation–induced gene expression through a penalized deconvolution approach. Statistics in Biosciences. https://doi.org/10.1007/s12561-022-09344-8."
   github_url: "https://github.com/AshTai/PEACH"
 
 - title: "MedMR: Multiply robust estimation of natural indirect effects with multiple ordered mediators."
-  paper_reference: "Tai A-S, Lin S-H. Multiply robust estimation of natural indirect effects with multiple ordered mediators. Statistics in Medicine. 2024; 43(4): 656-673. https://doi.org/10.1002/sim.9977"
+  paper_reference: "An-Shun Tai and Sheng-Hsuan Lin* (2024). Multiply robust estimation of natural indirect effects with multiple ordered mediators. Statistics in Medicine. 43(4):656-673. doi: 10.1002/sim.9977."
   github_url: "https://github.com/AshTai/MedMR"
 
 - title: "BayICE: A hierarchical Bayesian deconvolution model with stochastic search variable selection"
@@ -19,7 +19,7 @@
   github_url: "https://github.com/AshTai/iPSEsv"
 
 - title: "CloneDeMix: Clone deconvolution via DNA sequencing"
-  paper_reference: "Tai AS, Peng CH, Peng SC, Hsieh WP (2018) Decomposing the subclonal structure of tumors with two-way mixture models on copy number aberrations. PLOS ONE 13(12): e0206579. https://doi.org/10.1371/journal.pone.0206579"
+  paper_reference: "An-Shun Tai, Chien-Hua Peng, Shih-Chi Peng, and Wen-Ping Hsieh (2018). Decomposing the subclonal structure of tumors with two-way mixture models on copy number aberrations. PLOS ONE. 13(12): e0206579."
   github_url: "https://github.com/AshTai/CloneDeMix"
 
 
