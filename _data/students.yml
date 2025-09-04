@@ -30,7 +30,7 @@ undergraduate:
   - name: BO-HAN YAO (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics, NCKU
-    year: 3
+    year: 4
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
     research_title: 113年度國科會大專生計畫「因果中介模型應用於抽菸引導的老化加速機制」("Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock")
     email: h24111057@gs.ncku.edu.tw
@@ -38,42 +38,42 @@ undergraduate:
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics, NCKU
-    year: 3
+    year: 4
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116099@gs.ncku.edu.tw
 
   - name: HUA-RUI ZENG (曾華睿)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hua-Rui-ZENG.JPG
     department: Department of Statistics, NCKU
-    year: 3
+    year: 4
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116170@gs.ncku.edu.tw
 
   - name: FONG-YU YANG (楊豐宇)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Fong-Yu-Yang.JPG
     department: Department of Statistics, NCKU
-    year: 3
+    year: 4
     research_interests: false
     email: h24116170@gs.ncku.edu.tw
  
   - name: LI-CHUN WANG (王麗淳)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Li-Chun-WANG.JPG
     department: Department of Statistics, NCKU
-    year: 2
+    year: 3
     research_interests: false
     email: h24126086@gs.ncku.edu.tw
 
   - name: TZU-CHIAO CHOU (周子喬)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Tzu-Chiao-CHOU.JPG
     department: Department of Statistics, NCKU
-    year: 2
+    year: 3
     research_interests: false
     email: Chou6855@gmail.com
   
   - name: HAN-YU TSAI (蔡涵宇)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
     department: Department of Statistics, NCKU
-    year: 2
+    year: 3
     research_interests: false
     email: H24124026@gs.ncku.edu.tw
 
@@ -103,14 +103,14 @@ research_assistants:
   - name: BO-HAN YAO (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han-YAO.JPG
     department: Department of Statistics
-    year: 3
+    year: 4
     research_interests: Epigenetic Clock, Causal Mediation Analysis, Aging, Causal Discovery, Causal ML
     email: h24111057@gs.ncku.edu.tw
 
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh-LIU.jpeg
     department: Department of Statistics
-    year: 3
+    year: 4
     research_interests: Causal Inference, Mendelian Randomization
     email: h24116099@gs.ncku.edu.tw
 
