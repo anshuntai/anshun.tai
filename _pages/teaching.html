@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_teaching = site.teaching | sort: "rank" %}
+{% assign sorted_teaching = site.teaching | where_exp: "item", "item.layout == 'course'" | sort: "rank" %}
 {% for post in sorted_teaching %}
   {% include archive-single.html %}
 {% endfor %}
