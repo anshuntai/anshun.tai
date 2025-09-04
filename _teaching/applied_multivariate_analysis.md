@@ -66,7 +66,7 @@ share: false
 </ol>
 
 <h2>Prerequisites</h2>
-<ul style="list-style-type: disc; font-size: 1.2em; padding-left: 1.5em; margin: 0;">
+<ul style="list-style-type: disc; padding-left: 1.5em; margin: 0;">
   <li>Linear algebra, calculus, probability, statistical inference, and linear models.</li>
   <li>Some experience with R programming is desirable, but not strictly required.</li>
 </ul>
