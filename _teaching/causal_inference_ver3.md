@@ -1,13 +1,13 @@
 ---
 layout: course
 title: "STAT6061/STAT5008 Causal Inference (因果推論)"
+rank: 2
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/causal_inference
 venue: "NCKU, Dept. STAT, STAT6061"
 years: "2025"
 location: "Tainan, Taiwan"
-rank: 2
 excerpt: ""
 share: false
 ---

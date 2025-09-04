@@ -1,12 +1,12 @@
 ---
 title: "Calculus I and II (微積分一、二)"
+rank: 4
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/calculus12
 venue: "NCKU, Dept. STAT"
 years: "2022, 2023, 2024, 2025"
 location: "Tainan, Taiwan"
-rank: 4
 excerpt: ""
 share: false
 ---

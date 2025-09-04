@@ -1,12 +1,12 @@
 ---
 title: "Bioinformatics (生物資訊)"
+rank: 3
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/bioinformatics
 venue: "NCKU, Dept. STAT, Institute of Data Science"
 years: "2023, 2024"
 location: "Tainan, Taiwan"
-rank: 3
 excerpt: ""
 share: false
 ---
