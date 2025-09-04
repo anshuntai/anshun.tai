@@ -19,8 +19,6 @@ Academic Experience
 ------
  * 2025 Jul - Now: Assistant Professor, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
 
- * 2025 Jul - Now: Adjunct Assistant Professor, Department of Statistics, National Cheng Kung University, Taiwan
-
  * 2025 Feb - 2025 Jul: Adjunct Assistant Professor, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
 
  * 2022 - 2025: Assistant Professor, Department of Statistics, National Cheng Kung University, Taiwan
