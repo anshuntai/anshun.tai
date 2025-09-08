@@ -117,12 +117,12 @@ alumni:
 
   - name: PEI-CHUN CHEN (陳沛群)
     program: M.B.A. in Statistics, NCKU Dept.STAT
-    year: 2025
+    graduate_year: 2025
     thesis: false
 
   - name: CHENG-YU LEE (李承祐)
     program: M.B.A. in Statistics, NCKU Dept.STAT
-    year: 2025
+    graduate_year: 2025
     thesis: false
 
 
