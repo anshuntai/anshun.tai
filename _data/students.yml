@@ -5,25 +5,32 @@ phd:
     department: M.S. in Statistics, National Chung Cheng University
     year: false
     research_interests: Causal Inference, Instrumental Variable Analysis
-    email: h24116099@gs.ncku.edu.tw
+    email: false
 
 graduate:
-  - name: PEI-CHUN CHEN (陳沛群)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Pei-Chun_CHEN.jpg
-    program: M.B.A. in Statistics, NCKU dept.STAT
-    year: 2
-    research_interests: Bioinformatics, Next-generation sequencing, Single cell sequencing, Cell type annotation
+  - name: 黃纓婷
+    photo_url: false
+    program: To be announced
+    year: To be announced
+    research_interests: To be announced
     research_title: false
-    email: lres50804@gmail.com
-
-  - name: CHENG-YU LEE (李承祐)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Cheng-Yu_LEE.JPG
-    program: M.B.A. in Statistics, NCKU dept.STAT
-    year: 2
-    research_interests: Instrumental variable analysis, Surrogate endpoint analysis
     email: false
+
+  - name: Andy Chao (趙睿群)
+    photo_url: false
+    program: To be announced
+    year: To be announced
+    research_interests: To be announced
     research_title: false
-    email: j14tdoit1213@gmail.com
+    email: false
+
+  - name: 朱宸儀
+    photo_url: false
+    program: To be announced
+    year: To be announced
+    research_interests: To be announced
+    research_title: false
+    email: false
 
 
 undergraduate:
@@ -33,55 +40,41 @@ undergraduate:
     year: 4
     research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
     research_title: 113年度國科會大專生計畫「因果中介模型應用於抽菸引導的老化加速機制」("Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock")
-    email: h24111057@gs.ncku.edu.tw
+    email: false
 
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
     department: Department of Statistics, NCKU
     year: 4
     research_interests: Causal Inference, Mendelian Randomization
-    email: h24116099@gs.ncku.edu.tw
+    email: false
 
   - name: HUA-RUI ZENG (曾華睿)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hua-Rui_ZENG.JPG
     department: Department of Statistics, NCKU
     year: 4
     research_interests: Causal Inference, Mendelian Randomization
-    email: h24116170@gs.ncku.edu.tw
-
-  - name: FONG-YU YANG (楊豐宇)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Fong-Yu_Yang.JPG
-    department: Department of Statistics, NCKU
-    year: 4
-    research_interests: false
-    email: h24116170@gs.ncku.edu.tw
+    email: false
  
   - name: LI-CHUN WANG (王麗淳)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Li-Chun_WANG.JPG
     department: Department of Statistics, NCKU
     year: 3
     research_interests: false
-    email: h24126086@gs.ncku.edu.tw
+    email: false
 
   - name: TZU-CHIAO CHOU (周子喬)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Tzu-Chiao_CHOU.JPG
     department: Department of Statistics, NCKU
     year: 3
     research_interests: false
-    email: Chou6855@gmail.com
+    email: false
   
   - name: HAN-YU TSAI (蔡涵宇)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
     department: Department of Statistics, NCKU
     year: 3
     research_interests: false
-    email: H24124026@gs.ncku.edu.tw
-
-  - name: Shih-Lan Wang (王世蘭)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Shih-Lan_Wang.JPG
-    department: Department of Mathematics, National Chung Cheng University (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
-    year: 4
-    research_interests: Mendelian Randomization and Confidence Interval 
     email: false
 
   - name: Hsin-Yu Ko (柯欣妤)
@@ -98,29 +91,38 @@ research_assistants:
     department: M.S. in Statistics, National Chung Cheng University
     year: false
     research_interests: Causal Inference, Instrumental Variable Analysis
-    email: h24116099@gs.ncku.edu.tw
+    email: false
 
   - name: BO-HAN YAO (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
     department: Department of Statistics
     year: 4
     research_interests: Epigenetic Clock, Causal Mediation Analysis, Aging, Causal Discovery, Causal ML
-    email: h24111057@gs.ncku.edu.tw
+    email: false
 
   - name: YU-CHIEH LIU (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
     department: Department of Statistics
     year: 4
     research_interests: Causal Inference, Mendelian Randomization
-    email: h24116099@gs.ncku.edu.tw
+    email: false
 
 
 
 alumni:
   - name: 楊文博
-    program: M.B.A. in Statistics
+    program: M.B.A. in Statistics, NCKU Dept.STAT
     graduate_year: 2024
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
 
+  - name: PEI-CHUN CHEN (陳沛群)
+    program: M.B.A. in Statistics, NCKU Dept.STAT
+    year: 2025
+    thesis: false
+
+  - name: CHENG-YU LEE (李承祐)
+    program: M.B.A. in Statistics, NCKU Dept.STAT
+    year: 2025
+    thesis: false
 
 
