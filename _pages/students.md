@@ -203,7 +203,7 @@ Alumni:
   <div class="info">
     <ul>
       <li>
-      <strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
+      <strong>{{ student.name }}</strong> ({{ student.program }}, {{ student.graduate_year }})
       {% if student.thesis %}
       <br>Thesis: {{ student.thesis }}
       {% endif %} 
