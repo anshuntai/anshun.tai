@@ -30,10 +30,10 @@ Academic Experience
 Journal Referee
 -----
 Statistics Journals:
- * Journal of the American Statistical Association (JASA) (2024)
+ * Journal of the American Statistical Association (JASA) (2024, 2025)
  * Statistica Sinica (2021, 2022, 2023, 2024)
  * Statistics in Medicine (2024)
- * Lifetime Data Analysis (2024)
+ * Lifetime Data Analysis (2024, 2025)
  * Australian & New Zealand Journal of Statistics (2022)
  * Journal of Data Science, Statistics, and Visualisation (2022)
 
