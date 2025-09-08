@@ -202,10 +202,12 @@ Alumni:
   {% for student in site.data.students.alumni %}
   <div class="info">
     <ul>
-      <li><strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
+      <li>
+      <strong>{{ student.name }}</strong>({{ student.program }}, {{ student.graduate_year }})
       {% if student.thesis %}
-      <br>Thesis: {{ student.thesis }}</li>
+      <br>Thesis: {{ student.thesis }}
       {% endif %} 
+      </li>
     </ul>
   </div>
   {% endfor %}
