@@ -31,12 +31,28 @@ I would welcome any email for an academic discussion.
 
 <!-- News Section -->
 ## NEWS
-- YU-CHIEH LIU (劉宇婕), Dept. STAT Third Year Undergraduate, **Awarded NSTC college student research scholarship for project "A Novel Instrumental Variable Model Relaxing the Independence and Exclusion Assumptions: A Mendelian Randomization Study of Age at Menarche and Uterine Fibroids"**(114年度國科會大專學生研究計劃「放寬獨立性與排他性假設的新因果工具變量模型：應用於初經年紀與子宮肌瘤的孟德爾隨機化實驗」）
-- HUA-RUI ZENG (曾華睿), Dept. STAT Third Year Undergraduate, **Awarded NSTC college student research scholarship for project "An Improved MR-Egger Model Relaxing the Instrumental Variable Independence Assumption and Its Application"**(114年度國科會大專學生研究計劃「放寬工具變量獨立性假設之改良 MR-Egger 模型及其應用」）
-- **I’m deeply honored and grateful to receive 2024 Outstanding Research Award (National Cheng Kung University - College of Management)**
-- BO-HAN YAO (姚博瀚), Dept. STAT Third Year Undergraduate, Received **Mitacs Globalink Research Internship 2025** at University of British Columbia, Vancouver.
-- **I’m deeply honored and grateful to receive 2024 Outstanding Research Award for Young Scholars, Taiwan Comprehensive University System (臺灣綜合大學系統 113 年度年輕學者創新研發成果 傑出獎)**
-- BO-HAN YAO (姚博瀚), Dept. STAT Second Year Undergraduate, **Awarded NSTC college student research scholarship for project "Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelarated Aging Measured by Epigenetic Clock"**(113年度國科會大專學生研究計劃「因果中介模型應用於抽菸引導的老化加速機制」）
+- **An-Shun Tai** received the **115 Professor Wen-Jang Huang’s Young Statistician Award (Applied Statistics Category)**  
+  （115年黃文璋教授年輕統計學家獎・應用組）.
+
+- **Yu-Chieh Liu (劉宇婕)**, third-year undergraduate student in the Department of Statistics, was awarded the **NSTC College Student Research Scholarship** for the project 
+  *“A Novel Instrumental Variable Model Relaxing the Independence and Exclusion Assumptions: A Mendelian Randomization Study of Age at Menarche and Uterine Fibroids”*  
+  （114年度國科會大專學生研究計畫：「放寬獨立性與排他性假設的新因果工具變量模型：應用於初經年紀與子宮肌瘤的孟德爾隨機化實驗」）
+
+- **Hua-Rui Zeng (曾華睿)**, third-year undergraduate student in the Department of Statistics, was awarded the **NSTC College Student Research Scholarship** for the project 
+  *“An Improved MR-Egger Model Relaxing the Instrumental Variable Independence Assumption and Its Application”*  
+  （114年度國科會大專學生研究計畫：「放寬工具變量獨立性假設之改良 MR-Egger 模型及其應用」）
+
+- **An-Shun Tai** received the **2024 Outstanding Research Award**, College of Management, National Cheng Kung University.
+  
+- **Bo-Han Yao (姚博瀚)**, third-year undergraduate student in the Department of Statistics, received the **Mitacs Globalink Research Internship 2025** at the University of British Columbia, Vancouver.
+
+- **An-Shun Tai** received the **2024 Outstanding Research Award for Young Scholars**, Taiwan Comprehensive University System  
+  （臺灣綜合大學系統 113 年度年輕學者創新研發成果傑出獎）.
+
+- **Bo-Han Yao (姚博瀚)**, second-year undergraduate student in the Department of Statistics, was awarded the **NSTC College Student Research Scholarship** for the project  
+  *“Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock”*  
+  （113年度國科會大專學生研究計畫：「因果中介模型應用於抽菸引導的老化加速機制」）
+  
 <!-- Custom CSS for the Banner -->
 <style>
   /* Banner Styling */
