@@ -91,7 +91,7 @@ I would welcome any email for an academic discussion.
   /* 調整全網頁的段落、清單與標題，讓中英文夾雜更易讀 */
   p, li, h2, h3 {
     letter-spacing: 0.04em;     /* 增加字與字之間的呼吸空間 */
-    line-height: 1.65;          /* 放大行高，避免中英文高低不一導致擁擠 */
+    line-height: 2;          /* 放大行高，避免中英文高低不一導致擁擠 */
     text-autospace: normal;     /* 讓現代瀏覽器自動在中英文之間補上微小空格 */
   }
 
