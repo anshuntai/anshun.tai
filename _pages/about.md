@@ -99,6 +99,5 @@ I would welcome any email for an academic discussion.
   li {
     margin-bottom: 8px;
   }
-</style>
   
 </style>
