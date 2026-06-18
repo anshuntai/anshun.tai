@@ -87,4 +87,18 @@ I would welcome any email for an academic discussion.
       line-height: 1.2; /* Adjust line height */
     }
   }
+  /* ＝以下為新增的文字間距優化設定＝ */
+  /* 調整全網頁的段落、清單與標題，讓中英文夾雜更易讀 */
+  p, li, h2, h3 {
+    letter-spacing: 0.04em;     /* 增加字與字之間的呼吸空間 */
+    line-height: 1.65;          /* 放大行高，避免中英文高低不一導致擁擠 */
+    text-autospace: normal;     /* 讓現代瀏覽器自動在中英文之間補上微小空格 */
+  }
+
+  /* 針對項目清單，增加上下排的間距 */
+  li {
+    margin-bottom: 8px;
+  }
+</style>
+  
 </style>
