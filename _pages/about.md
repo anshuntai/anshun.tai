@@ -31,6 +31,9 @@ I would welcome any email for an academic discussion.
 
 <!-- News Section -->
 ## NEWS
+- **An-Shun Tai** received the **2026 NSTC Ta-You Wu Memorial Award**  
+  （115年度國科會「吳大猷先生紀念獎」）.
+  
 - **An-Shun Tai** received the **115 Professor Wen-Jang Huang’s Young Statistician Award (Applied Statistics Category)**  
   （115年黃文璋教授年輕統計學家獎・應用組）.
 
