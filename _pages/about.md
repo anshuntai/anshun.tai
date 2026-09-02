@@ -1,5 +1,6 @@
 ---
 title: ""
+description: "CausalBio Lab, led by An-Shun Tai at National Tsing Hua University, studies causal inference, Mendelian randomization, bioinformatics, and genomic data analysis."
 author_profile: true
 redirect_from: 
   - /about/
