@@ -99,7 +99,7 @@ PhD student (博士生):
 </div>
 {% endfor %}
 
-Graduate (研究生):
+Graduate (碩士生):
 -----
 {% for student in site.data.students.graduate %}
 <div class="{% if student.photo_url %}has-photo{% else %}no-photo{% endif %}">

@@ -10,15 +10,15 @@ phd:
 graduate:
   - name: 黃纓婷
     photo_url: false
-    program: To be announced
-    year: To be announced
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    year: 2
     research_interests: To be announced
     research_title: false
     email: false
 
   - name: Andy Chao (趙睿群)
     photo_url: false
-    program: To be announced
+    program: M.S. in Statistics, NTHU, Institute of Statistics and Data Science
     year: To be announced
     research_interests: To be announced
     research_title: false
@@ -26,62 +26,57 @@ graduate:
 
   - name: 朱宸儀
     photo_url: false
-    program: To be announced
+    program: M.S. in Statistics, NTHU, Institute of Statistics and Data Science
     year: To be announced
     research_interests: To be announced
     research_title: false
     email: false
 
+  - name: Hsin-Yu Ko (柯欣妤)
+    photo_url: false
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science  (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
+    year: 2
+    department: Department of Mathematics, National Chung Cheng University
+    research_interests: Mendelian Randomization and Confidence Interval 
+    email: false
+
+  - name: Bo-Han Yao (姚博瀚)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    year: 1
+    department: Department of Statistics, NCKU
+    research_interests: Epigenetic Clock, Causal mediation analysis, Causal ML
+    email: false
+
+  - name: Yu-Chien Liu (劉宇婕)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    year: 1
+    department: Department of Statistics, NCKU
+    research_interests: Causal Inference, Mendelian Randomization
+    email: false
+
 
 undergraduate:
-  - name: BO-HAN YAO (姚博瀚)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
-    department: Department of Statistics, NCKU
-    year: 4
-    research_interests: Epigenetic Clock, Causal mediation analysis, Aging, Causal Discovery, Causal ML
-    research_title: 113年度國科會大專生計畫「因果中介模型應用於抽菸引導的老化加速機制」("Application of Causal Mediation Models to Smoking-Induced Mechanisms of Accelerated Aging Measured by Epigenetic Clock")
-    email: false
-
-  - name: YU-CHIEH LIU (劉宇婕)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
-    department: Department of Statistics, NCKU
-    year: 4
-    research_interests: Causal Inference, Mendelian Randomization
-    email: false
-
-  - name: HUA-RUI ZENG (曾華睿)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hua-Rui_ZENG.JPG
-    department: Department of Statistics, NCKU
-    year: 4
-    research_interests: Causal Inference, Mendelian Randomization
-    email: false
- 
-  - name: LI-CHUN WANG (王麗淳)
+  - name: Li-Chun Wang (王麗淳)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Li-Chun_WANG.JPG
     department: Department of Statistics, NCKU
-    year: 3
+    year: 4
     research_interests: false
     email: false
 
-  - name: TZU-CHIAO CHOU (周子喬)
+  - name: Tzu-Chiao Chou (周子喬)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Tzu-Chiao_CHOU.JPG
     department: Department of Statistics, NCKU
-    year: 3
+    year: 4
     research_interests: false
     email: false
   
-  - name: HAN-YU TSAI (蔡涵宇)
+  - name: Han-Yu TSAI (蔡涵宇)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Han-Yu_TSAI.JPG
     department: Department of Statistics, NCKU
-    year: 3
-    research_interests: false
-    email: false
-
-  - name: Hsin-Yu Ko (柯欣妤)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hsin-Yu_Ko.JPG
-    department: Department of Mathematics, National Chung Cheng University (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
     year: 4
-    research_interests: Mendelian Randomization and Confidence Interval 
+    research_interests: false
     email: false
 
 research_assistants:
@@ -90,39 +85,43 @@ research_assistants:
     program: PhD student in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
     department: M.S. in Statistics, National Chung Cheng University
     year: false
-    research_interests: Causal Inference, Instrumental Variable Analysis
+    research_interests: false
     email: false
 
-  - name: BO-HAN YAO (姚博瀚)
+  - name: Bo-Han Yao (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
-    department: Department of Statistics
-    year: 4
-    research_interests: Epigenetic Clock, Causal Mediation Analysis, Aging, Causal Discovery, Causal ML
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    year: 1
+    research_interests: false
     email: false
 
-  - name: YU-CHIEH LIU (劉宇婕)
+  - name: Yu-Chien Liu (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
-    department: Department of Statistics
-    year: 4
-    research_interests: Causal Inference, Mendelian Randomization
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    year: 1
+    research_interests: false
     email: false
-
 
 
 alumni:
-  - name: 楊文博
+  - name: Wen-Bo Yang（楊文博）
     program: M.B.A. in Statistics, NCKU Dept.STAT
     graduate_year: 2024
-    thesis: 多重因果中介分析之有序分解法與逆機率權重估計(Weighting approach for sequential effect decomposition for causal multi-mediation analysis)
+    thesis: 多重因果中介分析之有序分解法與逆機率權重估計（Weighting approach for sequential effect decomposition for causal multi-mediation analysis）
 
-  - name: PEI-CHUN CHEN (陳沛群)
+  - name: Pei-Chun Chen (陳沛群)
     program: M.B.A. in Statistics, NCKU Dept.STAT
     graduate_year: 2025
-    thesis: false
+    thesis: 單細胞 RNA 定序資料的半參考式集成學習之細胞類型標註（Semi-Reference Ensemble Learning for Cell Type Annotation in scRNA-seq Data）
 
-  - name: CHENG-YU LEE (李承祐)
+  - name: Cheng-Yu Lee (李承祐)
     program: M.B.A. in Statistics, NCKU Dept.STAT
     graduate_year: 2025
-    thesis: false
+    thesis: 在未觀測干擾下評估替代終點效度：基於工具變數的因果中介統計模型（Evaluating the Validity of Surrogate Endpoints under Unmeasured Confounding: ACausal Mediation Framework Using Instrumental Variables）（Co-advisor: Prof. Pei-Fang Su）
+
+  - name: Hua-Rui Zeng (曾華睿)
+    program: B.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    graduate_year: 2026
+    thesis: 114年度國科會大專學生研究計畫：「放寬工具變量獨立性假設之改良 MR-Egger 模型及其應用」(“An Improved MR-Egger Model Relaxing the Instrumental Variable Independence Assumption and Its Application”)
 
 
