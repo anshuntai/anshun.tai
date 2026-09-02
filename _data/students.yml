@@ -117,11 +117,11 @@ alumni:
   - name: Cheng-Yu Lee (李承祐)
     program: M.B.A. in Statistics, NCKU Dept.STAT
     graduate_year: 2025
-    thesis: 在未觀測干擾下評估替代終點效度：基於工具變數的因果中介統計模型（Evaluating the Validity of Surrogate Endpoints under Unmeasured Confounding: ACausal Mediation Framework Using Instrumental Variables）（Co-advisor: Prof. Pei-Fang Su）
+    thesis: "在未觀測干擾下評估替代終點效度：基於工具變數的因果中介統計模型（Evaluating the Validity of Surrogate Endpoints under Unmeasured Confounding: ACausal Mediation Framework Using Instrumental Variables）（Co-advisor: Prof. Pei-Fang Su）"
 
   - name: Hua-Rui Zeng (曾華睿)
     program: B.B.A. in Statistics, NCKU Dept. Statistics and Data Science
     graduate_year: 2026
-    thesis: 114年度國科會大專學生研究計畫：「放寬工具變量獨立性假設之改良 MR-Egger 模型及其應用」(“An Improved MR-Egger Model Relaxing the Instrumental Variable Independence Assumption and Its Application”)
+    thesis: "114年度國科會大專學生研究計畫：「放寬工具變量獨立性假設之改良 MR-Egger 模型及其應用」(“An Improved MR-Egger Model Relaxing the Instrumental Variable Independence Assumption and Its Application”)"
 
 
