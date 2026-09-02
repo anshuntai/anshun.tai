@@ -25,7 +25,7 @@ Academic Experience
 
  * Apr. 2019 ~ Jul. 2022: Postdoctoral Fellow, Institute of Statistics, National Chiao Tung University, Taiwan.
 
- * Feb. 2017 ~ Jul. 2017: Predoctoral Visiting Scholar, Department of Biostatistics, University of Pittsburgh.
+ * Feb. 2017 ~ Jul. 2017: Predoctoral Visiting Scholar, Department of Biostatistics, University of Pittsburgh. (George C. Tseng's Group)
 
 Journal Referee
 -----
