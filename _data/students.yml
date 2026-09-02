@@ -105,17 +105,17 @@ research_assistants:
 
 alumni:
   - name: Wen-Bo Yang（楊文博）
-    program: M.B.A. in Statistics, NCKU Dept.STAT
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
     graduate_year: 2024
     thesis: 多重因果中介分析之有序分解法與逆機率權重估計（Weighting approach for sequential effect decomposition for causal multi-mediation analysis）
 
   - name: Pei-Chun Chen (陳沛群)
-    program: M.B.A. in Statistics, NCKU Dept.STAT
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
     graduate_year: 2025
     thesis: 單細胞 RNA 定序資料的半參考式集成學習之細胞類型標註（Semi-Reference Ensemble Learning for Cell Type Annotation in scRNA-seq Data）
 
   - name: Cheng-Yu Lee (李承祐)
-    program: M.B.A. in Statistics, NCKU Dept.STAT
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
     graduate_year: 2025
     thesis: "在未觀測干擾下評估替代終點效度：基於工具變數的因果中介統計模型（Evaluating the Validity of Surrogate Endpoints under Unmeasured Confounding: ACausal Mediation Framework Using Instrumental Variables）（Co-advisor: Prof. Pei-Fang Su）"
 
