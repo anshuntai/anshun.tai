@@ -5,6 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  .publications-content {
+    box-sizing: border-box;
+    padding-inline: clamp(0.25rem, 2vw, 1.5rem);
+  }
+
+  .publications-content p,
+  .publications-content li {
+    text-align: justify;
+    text-justify: inter-character;
+    text-align-last: left;
+    overflow-wrap: break-word;
+  }
+</style>
+
+<div class="publications-content" markdown="1">
+
 <!--
 Publication Summary:
 -----
@@ -64,3 +81,5 @@ Papers under review or under revision
 4. Kuan-Hung Liu, Kuan-Yen Chen, **An-Shun Tai**, Yu-Huan Chiu, Wei-Ren Lin, Ying-Hsuan Lin, Chen-Yi Zhang, Edward Chia-Cheng Lai, Junne-Ming Sung, Chih-Yen Hsiao, Ming-Cheng Wang, Yau-Sheng Tsai, Jung-Hsien Chiang (2026+). Feature-level transportability and governance of an interpretable intradialytic hypotension prediction model: a multicenter retrospective study. Under review.
 5. Wen-Han Hwang*, Jakub Stoklosa, **An-Shun Tai**, Kuan-Hung Liu, and Ching-Yun Wang (2026+). Corrected Score Estimation for Zero-Inflated Poisson Models with Covariate Measurement Error. Under review.
 6. Nai-Chia Fan, **An-Shun Tai**, Hui-Ju Tsai, Hsin-Yi Huang, Ju Chang-Chien, Chi-Yen Hung, Shih-Ling Wang, Yu-Lun Tseng, and Tsung-Chieh Yao* (2026+). Association of Urinary Chromium and Nickel Concentrations with Fractional Exhaled Nitric Oxide in Children: A Population-Based Study. Under review.
+
+</div>
