@@ -124,7 +124,7 @@ alumni:
   - name: 朱宸儀
     program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
     graduate_year: 2026
-    thesis: "未測量混淆下利用代理變數之隨機介入效果的識別與估計（Identification and Estimation of Randomized Interventional Effects under Unmeasured Confounding using Proxy Variables）"
+    thesis: "特定路徑效應的近端因果推論 (roximal Causal Inference for a Path-Specific Effect）"
 
   - name: 黃纓婷
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
