@@ -1,41 +1,33 @@
 phd:
   - name: Chen-Hua Cho (卓辰樺)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Chen-Hua_Cho.JPG
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Chen-Hua_Cho.jpg
     program: PhD in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
     department: M.S. in Statistics, National Chung Cheng University
     year: false
     research_interests: Causal Inference, Instrumental Variable Analysis
+    awards: 2025 NSTC Graduate Research Fellowship (NSTC-GRF).
     email: false
 
 graduate:
-  - name: 黃纓婷
+
+  - name: 張劭謙
     photo_url: false
-    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: 2
+    program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
     research_interests: To be announced
     research_title: false
     email: false
 
-  - name: Andy Chao (趙睿群)
+  - name: 陳右崧
     photo_url: false
-    program: M.S. in Statistics, NTHU, Institute of Statistics and Data Science
-    year: To be announced
-    research_interests: To be announced
-    research_title: false
-    email: false
-
-  - name: 朱宸儀
-    photo_url: false
-    program: M.S. in Statistics, NTHU, Institute of Statistics and Data Science
-    year: To be announced
+    program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
     research_interests: To be announced
     research_title: false
     email: false
 
   - name: Hsin-Yu Ko (柯欣妤)
-    photo_url: false
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hsin-Yu_Ko.jpeg
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science  (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
-    year: 2
+    year: false
     department: Department of Mathematics, National Chung Cheng University
     research_interests: Mendelian Randomization and Confidence Interval 
     email: false
@@ -43,7 +35,7 @@ graduate:
   - name: Bo-Han Yao (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: 1
+    year: false
     department: Department of Statistics, NCKU
     research_interests: Epigenetic Clock, Causal mediation analysis, Causal ML
     email: false
@@ -51,11 +43,10 @@ graduate:
   - name: Yu-Chien Liu (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: 1
+    year: false
     department: Department of Statistics, NCKU
     research_interests: Causal Inference, Mendelian Randomization
     email: false
-
 
 undergraduate:
   - name: Li-Chun Wang (王麗淳)
@@ -79,26 +70,27 @@ undergraduate:
     research_interests: false
     email: false
 
-research_assistants:
-  - name: Chen-Hua Cho (卓辰樺)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Chen-Hua_Cho.JPG
-    program: PhD student in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan 
-    department: M.S. in Statistics, National Chung Cheng University
+  - name: Wei-Chen Wu (吳維臻)
+    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Wei-Chen_Wu.jpg
+    department: Department of Statistics, NCKU
+    year: false
+    research_interests: Time Series Analysis, Epidemiological Data Analysis
+    research_title: 氣象環境因子與急性腎損傷 (AKI) 之時間序列流行病學分析
+    email: false
+
+  - name: 李宥竑
+    photo_url: false
+    department: Department of Quantitative Finance, National Tsing Hua University, Taiwan
     year: false
     research_interests: false
+    research_title: false
     email: false
 
-  - name: Bo-Han Yao (姚博瀚)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
-    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: 1
-    research_interests: false
-    email: false
-
-  - name: Yu-Chien Liu (劉宇婕)
-    photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
-    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: 1
+research_assistants:
+  - name: Meng-Tang Pan (潘夢棠)
+    photo_url: false
+    program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
+    year: false
     research_interests: false
     email: false
 
@@ -124,4 +116,17 @@ alumni:
     graduate_year: 2026
     thesis: "114年度國科會大專學生研究計畫：「放寬工具變量獨立性假設之改良 MR-Egger 模型及其應用」(“An Improved MR-Egger Model Relaxing the Instrumental Variable Independence Assumption and Its Application”)"
 
+  - name: Andy Chao (趙睿群)
+    program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
+    graduate_year: 2026
+    thesis: "未測量混淆下利用代理變數之隨機介入效果的識別與估計（Identification and Estimation of Randomized Interventional Effects under Unmeasured Confounding using Proxy Variables）"
 
+  - name: 朱宸儀
+    program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
+    graduate_year: 2026
+    thesis: "未測量混淆下利用代理變數之隨機介入效果的識別與估計（Identification and Estimation of Randomized Interventional Effects under Unmeasured Confounding using Proxy Variables）"
+
+  - name: 黃纓婷
+    program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
+    graduate_year: false
+    thesis: "應用於單細胞RNA測序數據之半參考貝氏細胞類型標註與標記基因鑑定方法（A Semi-Reference Bayesian Approach to Cell-Type Annotation and Marker Discovery in Single-Cell RNA-Seq）"
