@@ -13,6 +13,7 @@ graduate:
   - name: 張劭謙
     photo_url: false
     program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
+    year: false
     research_interests: To be announced
     research_title: false
     email: false
@@ -20,6 +21,7 @@ graduate:
   - name: 陳右崧
     photo_url: false
     program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
+    year: false
     research_interests: To be announced
     research_title: false
     email: false
