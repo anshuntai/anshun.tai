@@ -77,7 +77,7 @@ undergraduate:
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Wei-Chen_Wu.jpg
     department: Department of Statistics, NCKU
     year: 4
-    research_interests: Time Series Analysis, Epidemiological Data Analysis
+    research_interests: false
     research_title: 氣象環境因子與急性腎損傷 (AKI) 之時間序列流行病學分析
     email: false
 
