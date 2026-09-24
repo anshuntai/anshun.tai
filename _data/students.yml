@@ -13,7 +13,7 @@ graduate:
   - name: 張劭謙
     photo_url: false
     program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
-    year: false
+    year: 2
     research_interests: To be announced
     research_title: false
     email: false
@@ -21,7 +21,7 @@ graduate:
   - name: 陳右崧
     photo_url: false
     program: M.S. in Statistics, Institute of Statistics and Data Science, National Tsing Hua University, Taiwan
-    year: false
+    year: 2
     research_interests: To be announced
     research_title: false
     email: false
@@ -29,7 +29,7 @@ graduate:
   - name: Hsin-Yu Ko (柯欣妤)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Hsin-Yu_Ko.jpeg
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science  (co-advisor:Prof. Chung-Han Lee 李宗翰 助理教授)
-    year: false
+    year: 2
     department: Department of Mathematics, National Chung Cheng University
     research_interests: Mendelian Randomization and Confidence Interval 
     email: false
@@ -37,7 +37,7 @@ graduate:
   - name: Bo-Han Yao (姚博瀚)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Bo-Han_YAO.JPG
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: false
+    year: 1
     department: Department of Statistics, NCKU
     research_interests: Epigenetic Clock, Causal mediation analysis, Causal ML
     email: false
@@ -45,7 +45,7 @@ graduate:
   - name: Yu-Chien Liu (劉宇婕)
     photo_url: https://anshuntai.github.io/anshun.tai/images/students/Yu-Chieh_LIU.JPG
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    year: false
+    year: 1
     department: Department of Statistics, NCKU
     research_interests: Causal Inference, Mendelian Randomization
     email: false
