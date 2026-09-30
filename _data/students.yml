@@ -130,5 +130,5 @@ alumni:
 
   - name: 黃纓婷
     program: M.B.A. in Statistics, NCKU Dept. Statistics and Data Science
-    graduate_year: false
+    graduate_year: 2026
     thesis: "應用於單細胞RNA測序數據之半參考貝氏細胞類型標註與標記基因鑑定方法（A Semi-Reference Bayesian Approach to Cell-Type Annotation and Marker Discovery in Single-Cell RNA-Seq）"
